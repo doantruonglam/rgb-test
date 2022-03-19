@@ -1,0 +1,4271 @@
+EESchema Schematic File Version 5
+EELAYER 36 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 1020 9340
+Connection ~ 1280 9340
+Connection ~ 1370 8340
+Connection ~ 1370 8840
+Connection ~ 1370 9090
+Connection ~ 6031 1567
+Connection ~ 6031 2057
+Connection ~ 6031 2542
+Connection ~ 6031 3032
+Connection ~ 6031 3492
+Connection ~ 6031 3982
+Connection ~ 6031 4467
+Connection ~ 6031 4957
+Connection ~ 6231 667 
+Connection ~ 6231 1167
+Connection ~ 6231 1657
+Connection ~ 6231 2142
+Connection ~ 6231 2632
+Connection ~ 6231 3092
+Connection ~ 6231 3582
+Connection ~ 6231 4067
+Connection ~ 6231 4557
+Connection ~ 6431 1567
+Connection ~ 6431 2057
+Connection ~ 6431 2542
+Connection ~ 6431 3032
+Connection ~ 6431 3492
+Connection ~ 6431 3982
+Connection ~ 6431 4467
+Connection ~ 6431 4957
+Connection ~ 6581 1607
+Connection ~ 6581 2097
+Connection ~ 6581 2577
+Connection ~ 6581 3062
+Connection ~ 6581 3532
+Connection ~ 6581 4017
+Connection ~ 6581 4502
+Connection ~ 6581 5007
+Connection ~ 6806 1567
+Connection ~ 6806 2057
+Connection ~ 6806 2542
+Connection ~ 6806 3032
+Connection ~ 6806 3492
+Connection ~ 6806 3982
+Connection ~ 6806 4467
+Connection ~ 6806 4957
+Connection ~ 7006 667 
+Connection ~ 7006 1167
+Connection ~ 7006 1657
+Connection ~ 7006 2142
+Connection ~ 7006 2542
+Connection ~ 7006 2632
+Connection ~ 7006 3092
+Connection ~ 7006 3582
+Connection ~ 7006 4067
+Connection ~ 7006 4557
+Connection ~ 7206 1567
+Connection ~ 7206 2057
+Connection ~ 7206 2542
+Connection ~ 7206 3032
+Connection ~ 7206 3492
+Connection ~ 7206 3982
+Connection ~ 7206 4467
+Connection ~ 7206 4957
+Connection ~ 7356 1607
+Connection ~ 7356 2097
+Connection ~ 7356 2577
+Connection ~ 7356 3052
+Connection ~ 7356 3537
+Connection ~ 7356 4017
+Connection ~ 7356 4497
+Connection ~ 7356 5022
+Connection ~ 7581 1567
+Connection ~ 7581 2057
+Connection ~ 7581 2542
+Connection ~ 7581 3032
+Connection ~ 7581 3492
+Connection ~ 7581 3982
+Connection ~ 7581 4467
+Connection ~ 7581 4957
+Connection ~ 7781 667 
+Connection ~ 7781 1167
+Connection ~ 7781 1657
+Connection ~ 7781 2142
+Connection ~ 7781 2632
+Connection ~ 7781 3092
+Connection ~ 7781 3582
+Connection ~ 7781 4067
+Connection ~ 7781 4557
+Connection ~ 7981 1567
+Connection ~ 7981 2057
+Connection ~ 7981 2542
+Connection ~ 7981 3032
+Connection ~ 7981 3492
+Connection ~ 7981 3982
+Connection ~ 7981 4467
+Connection ~ 7981 4957
+Connection ~ 8131 1622
+Connection ~ 8131 2102
+Connection ~ 8131 2577
+Connection ~ 8131 3062
+Connection ~ 8131 3547
+Connection ~ 8131 4022
+Connection ~ 8131 4512
+Connection ~ 8131 5032
+Connection ~ 8356 1567
+Connection ~ 8356 2057
+Connection ~ 8356 2542
+Connection ~ 8356 3032
+Connection ~ 8356 3492
+Connection ~ 8356 3982
+Connection ~ 8356 4467
+Connection ~ 8356 4957
+Connection ~ 8395 9405
+Connection ~ 8556 667 
+Connection ~ 8556 1167
+Connection ~ 8556 1657
+Connection ~ 8556 2142
+Connection ~ 8556 2632
+Connection ~ 8556 3092
+Connection ~ 8556 3582
+Connection ~ 8556 4067
+Connection ~ 8556 4557
+Connection ~ 8720 9405
+Connection ~ 8720 9705
+Connection ~ 8756 1567
+Connection ~ 8756 2057
+Connection ~ 8756 2542
+Connection ~ 8756 3032
+Connection ~ 8756 3492
+Connection ~ 8756 3982
+Connection ~ 8756 4467
+Connection ~ 8756 4957
+Connection ~ 8906 1607
+Connection ~ 8906 2087
+Connection ~ 8906 2582
+Connection ~ 8906 3062
+Connection ~ 8906 3517
+Connection ~ 8906 4012
+Connection ~ 8906 4502
+Connection ~ 8906 5017
+Connection ~ 9100 8405
+Connection ~ 9100 8865
+Connection ~ 9131 1567
+Connection ~ 9131 2057
+Connection ~ 9131 2542
+Connection ~ 9131 3032
+Connection ~ 9131 3492
+Connection ~ 9131 3982
+Connection ~ 9131 4467
+Connection ~ 9131 4957
+Connection ~ 9331 667 
+Connection ~ 9331 1167
+Connection ~ 9331 1657
+Connection ~ 9331 2142
+Connection ~ 9331 2632
+Connection ~ 9331 3092
+Connection ~ 9331 3582
+Connection ~ 9331 4067
+Connection ~ 9331 4557
+Connection ~ 9400 8405
+Connection ~ 9400 8865
+Connection ~ 9531 1567
+Connection ~ 9531 2057
+Connection ~ 9531 2542
+Connection ~ 9531 3032
+Connection ~ 9531 3492
+Connection ~ 9531 3982
+Connection ~ 9531 4467
+Connection ~ 9531 4957
+Connection ~ 9681 1612
+Connection ~ 9681 2097
+Connection ~ 9681 2577
+Connection ~ 9681 3062
+Connection ~ 9681 3532
+Connection ~ 9681 4027
+Connection ~ 9681 4507
+Connection ~ 9681 5012
+Connection ~ 9695 8405
+Connection ~ 9695 8865
+Connection ~ 9906 1567
+Connection ~ 9906 2057
+Connection ~ 9906 2542
+Connection ~ 9906 3032
+Connection ~ 9906 3492
+Connection ~ 9906 3982
+Connection ~ 9906 4467
+Connection ~ 9906 4957
+Connection ~ 9995 8405
+Connection ~ 9995 8865
+Connection ~ 10055 9405
+Connection ~ 10055 9920
+Connection ~ 10106 667 
+Connection ~ 10106 1167
+Connection ~ 10106 1657
+Connection ~ 10106 2142
+Connection ~ 10106 2632
+Connection ~ 10106 3092
+Connection ~ 10106 3582
+Connection ~ 10106 4067
+Connection ~ 10106 4557
+Connection ~ 10270 9405
+Connection ~ 10290 8405
+Connection ~ 10290 8865
+Connection ~ 10306 1567
+Connection ~ 10306 2057
+Connection ~ 10306 2542
+Connection ~ 10306 3032
+Connection ~ 10306 3492
+Connection ~ 10306 3982
+Connection ~ 10306 4467
+Connection ~ 10306 4957
+Connection ~ 10430 9705
+Connection ~ 10456 1612
+Connection ~ 10456 2112
+Connection ~ 10456 2592
+Connection ~ 10456 3067
+Connection ~ 10456 3532
+Connection ~ 10456 4027
+Connection ~ 10456 4517
+Connection ~ 10456 5007
+Connection ~ 10580 9405
+Connection ~ 10681 1567
+Connection ~ 10681 2057
+Connection ~ 10681 2542
+Connection ~ 10681 3032
+Connection ~ 10681 3492
+Connection ~ 10681 3982
+Connection ~ 10681 4467
+Connection ~ 10681 4957
+Connection ~ 10881 667 
+Connection ~ 10881 1167
+Connection ~ 10881 1657
+Connection ~ 10881 2142
+Connection ~ 10881 2632
+Connection ~ 10881 3092
+Connection ~ 10881 3582
+Connection ~ 10881 4067
+Connection ~ 10881 4557
+Connection ~ 11081 1567
+Connection ~ 11081 2057
+Connection ~ 11081 2542
+Connection ~ 11081 3032
+Connection ~ 11081 3492
+Connection ~ 11081 3982
+Connection ~ 11081 4467
+Connection ~ 11081 4957
+Connection ~ 11231 1612
+Connection ~ 11231 2107
+Connection ~ 11231 2587
+Connection ~ 11231 3067
+Connection ~ 11231 3542
+Connection ~ 11231 4027
+Connection ~ 11231 4522
+Connection ~ 11231 5027
+Connection ~ 11456 1567
+Connection ~ 11456 2057
+Connection ~ 11456 2542
+Connection ~ 11456 3032
+Connection ~ 11456 3492
+Connection ~ 11456 3982
+Connection ~ 11456 4467
+Connection ~ 11456 4957
+Connection ~ 11656 667 
+Connection ~ 11656 1167
+Connection ~ 11656 1657
+Connection ~ 11656 2142
+Connection ~ 11656 2632
+Connection ~ 11656 3092
+Connection ~ 11656 3582
+Connection ~ 11656 4067
+Connection ~ 11656 4557
+Connection ~ 11856 1567
+Connection ~ 11856 2057
+Connection ~ 11856 2542
+Connection ~ 11856 3032
+Connection ~ 11856 3492
+Connection ~ 11856 3982
+Connection ~ 11856 4467
+Connection ~ 11856 4957
+Connection ~ 12006 1607
+Connection ~ 12006 2092
+Connection ~ 12006 2587
+Connection ~ 12006 3062
+Connection ~ 12006 3532
+Connection ~ 12006 4022
+Connection ~ 12006 4517
+Connection ~ 12006 5012
+Connection ~ 12256 1567
+Connection ~ 12256 2057
+Connection ~ 12256 2542
+Connection ~ 12256 3032
+Connection ~ 12256 3492
+Connection ~ 12256 3982
+Connection ~ 12256 4467
+Connection ~ 12256 4957
+Connection ~ 12456 667 
+Connection ~ 12456 1167
+Connection ~ 12456 1657
+Connection ~ 12456 2142
+Connection ~ 12456 2632
+Connection ~ 12456 3092
+Connection ~ 12456 3582
+Connection ~ 12456 4067
+Connection ~ 12456 4557
+Connection ~ 12656 1567
+Connection ~ 12656 2057
+Connection ~ 12656 2542
+Connection ~ 12656 3032
+Connection ~ 12656 3492
+Connection ~ 12656 3982
+Connection ~ 12656 4467
+Connection ~ 12656 4957
+Connection ~ 12806 1617
+Connection ~ 12806 2102
+Connection ~ 12806 2587
+Connection ~ 12806 3067
+Connection ~ 12806 3547
+Connection ~ 12806 4027
+Connection ~ 12806 4522
+Connection ~ 12806 5012
+Connection ~ 13031 1567
+Connection ~ 13031 2057
+Connection ~ 13031 2542
+Connection ~ 13031 3032
+Connection ~ 13031 3492
+Connection ~ 13031 3982
+Connection ~ 13031 4467
+Connection ~ 13031 4957
+Connection ~ 13231 667 
+Connection ~ 13231 1167
+Connection ~ 13231 1657
+Connection ~ 13231 2142
+Connection ~ 13231 2632
+Connection ~ 13231 3092
+Connection ~ 13231 3582
+Connection ~ 13231 4067
+Connection ~ 13231 4557
+Connection ~ 13431 1567
+Connection ~ 13431 2057
+Connection ~ 13431 2542
+Connection ~ 13431 3032
+Connection ~ 13431 3492
+Connection ~ 13431 3982
+Connection ~ 13431 4467
+Connection ~ 13431 4957
+Connection ~ 13581 1607
+Connection ~ 13581 2092
+Connection ~ 13581 2587
+Connection ~ 13581 3062
+Connection ~ 13581 3532
+Connection ~ 13581 4027
+Connection ~ 13581 4512
+Connection ~ 13581 5012
+Connection ~ 13806 1567
+Connection ~ 13806 2057
+Connection ~ 13806 2542
+Connection ~ 13806 3032
+Connection ~ 13806 3492
+Connection ~ 13806 3982
+Connection ~ 13806 4467
+Connection ~ 13806 4957
+Connection ~ 14006 667 
+Connection ~ 14006 1167
+Connection ~ 14006 1657
+Connection ~ 14006 2142
+Connection ~ 14006 2632
+Connection ~ 14006 3092
+Connection ~ 14006 3582
+Connection ~ 14006 4067
+Connection ~ 14006 4557
+Connection ~ 14206 1567
+Connection ~ 14206 2057
+Connection ~ 14206 2542
+Connection ~ 14206 3032
+Connection ~ 14206 3492
+Connection ~ 14206 3982
+Connection ~ 14206 4467
+Connection ~ 14206 4957
+Connection ~ 14356 1617
+Connection ~ 14356 2097
+Connection ~ 14356 2582
+Connection ~ 14356 3062
+Connection ~ 14356 3532
+Connection ~ 14356 4027
+Connection ~ 14356 4502
+Connection ~ 14356 5007
+Connection ~ 14581 1567
+Connection ~ 14581 2057
+Connection ~ 14581 2542
+Connection ~ 14581 3032
+Connection ~ 14581 3492
+Connection ~ 14581 3982
+Connection ~ 14581 4467
+Connection ~ 14581 4957
+Connection ~ 14781 667 
+Connection ~ 14781 1167
+Connection ~ 14781 1657
+Connection ~ 14781 2142
+Connection ~ 14781 2632
+Connection ~ 14781 3092
+Connection ~ 14781 3582
+Connection ~ 14781 4067
+Connection ~ 14781 4557
+Connection ~ 14981 1567
+Connection ~ 14981 2057
+Connection ~ 14981 2542
+Connection ~ 14981 3032
+Connection ~ 14981 3492
+Connection ~ 14981 3982
+Connection ~ 14981 4467
+Connection ~ 14981 4957
+Connection ~ 15131 1607
+Connection ~ 15131 2097
+Connection ~ 15131 2582
+Connection ~ 15131 3062
+Connection ~ 15131 3527
+Connection ~ 15131 4027
+Connection ~ 15131 4517
+Connection ~ 15131 5027
+Connection ~ 15356 1567
+Connection ~ 15356 2057
+Connection ~ 15356 2542
+Connection ~ 15356 3032
+Connection ~ 15356 3492
+Connection ~ 15356 3982
+Connection ~ 15356 4467
+Connection ~ 15356 4957
+Connection ~ 15756 1567
+Connection ~ 15756 2057
+Connection ~ 15756 2542
+Connection ~ 15756 3032
+Connection ~ 15756 3492
+Connection ~ 15756 3982
+Connection ~ 15756 4467
+Connection ~ 15756 4957
+Connection ~ 15906 1632
+Connection ~ 15906 2112
+Connection ~ 15906 2602
+Connection ~ 15906 3072
+Connection ~ 15906 3552
+Connection ~ 15906 4042
+Connection ~ 15906 4522
+Connection ~ 15906 5017
+Wire Wire Line
+	905  8340 1370 8340
+Wire Wire Line
+	905  9090 1370 9090
+Wire Wire Line
+	905  9340 1020 9340
+Wire Wire Line
+	1020 9340 1280 9340
+Wire Wire Line
+	1265 8220 1370 8220
+Wire Wire Line
+	1265 8720 1370 8720
+Wire Wire Line
+	1265 8970 1370 8970
+Wire Wire Line
+	1280 9340 1615 9340
+Wire Wire Line
+	1370 8220 1370 8340
+Wire Wire Line
+	1370 8340 1615 8340
+Wire Wire Line
+	1370 8720 1370 8840
+Wire Wire Line
+	1370 8840 905  8840
+Wire Wire Line
+	1370 8970 1370 9090
+Wire Wire Line
+	1370 9090 1615 9090
+Wire Wire Line
+	1615 8840 1370 8840
+Wire Wire Line
+	6031 1067 6031 1567
+Wire Wire Line
+	6031 1567 6031 2057
+Wire Wire Line
+	6031 2057 6031 2542
+Wire Wire Line
+	6031 2542 6031 3032
+Wire Wire Line
+	6031 3032 6031 3492
+Wire Wire Line
+	6031 3492 6031 3982
+Wire Wire Line
+	6031 3982 6031 4467
+Wire Wire Line
+	6031 4467 6031 4957
+Wire Wire Line
+	6031 6082 6031 4957
+Wire Wire Line
+	6031 6082 6381 6082
+Wire Wire Line
+	6231 667  5626 667 
+Wire Wire Line
+	6231 1067 6231 1107
+Wire Wire Line
+	6231 1107 6581 1107
+Wire Wire Line
+	6231 1167 5626 1167
+Wire Wire Line
+	6231 1167 7006 1167
+Wire Wire Line
+	6231 1567 6231 1607
+Wire Wire Line
+	6231 1607 6581 1607
+Wire Wire Line
+	6231 1657 5626 1657
+Wire Wire Line
+	6231 2057 6231 2097
+Wire Wire Line
+	6231 2097 6581 2097
+Wire Wire Line
+	6231 2142 5626 2142
+Wire Wire Line
+	6231 2142 7006 2142
+Wire Wire Line
+	6231 2542 6231 2577
+Wire Wire Line
+	6231 2577 6581 2577
+Wire Wire Line
+	6231 2632 5626 2632
+Wire Wire Line
+	6231 3032 6231 3062
+Wire Wire Line
+	6231 3062 6581 3062
+Wire Wire Line
+	6231 3092 5626 3092
+Wire Wire Line
+	6231 3092 7006 3092
+Wire Wire Line
+	6231 3492 6231 3532
+Wire Wire Line
+	6231 3532 6581 3532
+Wire Wire Line
+	6231 3582 5626 3582
+Wire Wire Line
+	6231 3982 6231 4017
+Wire Wire Line
+	6231 4017 6581 4017
+Wire Wire Line
+	6231 4067 5626 4067
+Wire Wire Line
+	6231 4067 7006 4067
+Wire Wire Line
+	6231 4467 6231 4502
+Wire Wire Line
+	6231 4502 6581 4502
+Wire Wire Line
+	6231 4557 5626 4557
+Wire Wire Line
+	6231 4557 7006 4557
+Wire Wire Line
+	6231 4957 6231 5007
+Wire Wire Line
+	6231 5007 6581 5007
+Wire Wire Line
+	6431 1067 6431 1567
+Wire Wire Line
+	6431 1567 6431 2057
+Wire Wire Line
+	6431 2057 6431 2542
+Wire Wire Line
+	6431 2542 6431 3032
+Wire Wire Line
+	6431 3032 6431 3492
+Wire Wire Line
+	6431 3492 6431 3982
+Wire Wire Line
+	6431 3982 6431 4467
+Wire Wire Line
+	6431 4467 6431 4957
+Wire Wire Line
+	6431 5977 6431 4957
+Wire Wire Line
+	6431 5977 6561 5977
+Wire Wire Line
+	6581 1107 6581 1607
+Wire Wire Line
+	6581 1607 6581 2097
+Wire Wire Line
+	6581 2097 6581 2577
+Wire Wire Line
+	6581 2577 6581 3062
+Wire Wire Line
+	6581 3062 6581 3532
+Wire Wire Line
+	6581 3532 6581 4017
+Wire Wire Line
+	6581 4017 6581 4502
+Wire Wire Line
+	6581 4502 6581 5007
+Wire Wire Line
+	6581 5762 6581 5007
+Wire Wire Line
+	6581 5762 6661 5762
+Wire Wire Line
+	6661 5762 6661 5977
+Wire Wire Line
+	6761 5492 6761 5977
+Wire Wire Line
+	6806 1067 6806 1567
+Wire Wire Line
+	6806 1567 6806 2057
+Wire Wire Line
+	6806 2057 6806 2542
+Wire Wire Line
+	6806 2542 6806 3032
+Wire Wire Line
+	6806 3032 6806 3492
+Wire Wire Line
+	6806 3492 6806 3982
+Wire Wire Line
+	6806 3982 6806 4467
+Wire Wire Line
+	6806 4467 6806 4957
+Wire Wire Line
+	6806 4957 6806 5322
+Wire Wire Line
+	6861 5537 6861 5977
+Wire Wire Line
+	7006 667  6231 667 
+Wire Wire Line
+	7006 1067 7006 1107
+Wire Wire Line
+	7006 1107 7356 1107
+Wire Wire Line
+	7006 1167 7781 1167
+Wire Wire Line
+	7006 1567 7006 1607
+Wire Wire Line
+	7006 1607 7356 1607
+Wire Wire Line
+	7006 1657 6231 1657
+Wire Wire Line
+	7006 2057 7006 2097
+Wire Wire Line
+	7006 2097 7356 2097
+Wire Wire Line
+	7006 2142 7781 2142
+Wire Wire Line
+	7006 2537 7006 2542
+Wire Wire Line
+	7006 2542 7006 2577
+Wire Wire Line
+	7006 2577 7356 2577
+Wire Wire Line
+	7006 2632 6231 2632
+Wire Wire Line
+	7006 3032 7006 3052
+Wire Wire Line
+	7006 3052 7356 3052
+Wire Wire Line
+	7006 3092 7781 3092
+Wire Wire Line
+	7006 3492 7006 3537
+Wire Wire Line
+	7006 3537 7356 3537
+Wire Wire Line
+	7006 3582 6231 3582
+Wire Wire Line
+	7006 3982 7006 4017
+Wire Wire Line
+	7006 4017 7356 4017
+Wire Wire Line
+	7006 4067 7781 4067
+Wire Wire Line
+	7006 4467 7006 4497
+Wire Wire Line
+	7006 4497 7356 4497
+Wire Wire Line
+	7006 4557 7781 4557
+Wire Wire Line
+	7006 4957 7006 5022
+Wire Wire Line
+	7006 5022 7356 5022
+Wire Wire Line
+	7031 5322 6806 5322
+Wire Wire Line
+	7031 6072 7031 5322
+Wire Wire Line
+	7206 1067 7206 1567
+Wire Wire Line
+	7206 1567 7206 2057
+Wire Wire Line
+	7206 2057 7206 2542
+Wire Wire Line
+	7206 2542 7206 3032
+Wire Wire Line
+	7206 3032 7206 3492
+Wire Wire Line
+	7206 3492 7206 3982
+Wire Wire Line
+	7206 3982 7206 4467
+Wire Wire Line
+	7206 4467 7206 4957
+Wire Wire Line
+	7206 5492 6761 5492
+Wire Wire Line
+	7206 5492 7206 4957
+Wire Wire Line
+	7356 1107 7356 1607
+Wire Wire Line
+	7356 1607 7356 2097
+Wire Wire Line
+	7356 2097 7356 2577
+Wire Wire Line
+	7356 2577 7356 3052
+Wire Wire Line
+	7356 3052 7356 3537
+Wire Wire Line
+	7356 3537 7356 4017
+Wire Wire Line
+	7356 4017 7356 4497
+Wire Wire Line
+	7356 4497 7356 5022
+Wire Wire Line
+	7356 5537 6861 5537
+Wire Wire Line
+	7356 5537 7356 5022
+Wire Wire Line
+	7581 1067 7581 1567
+Wire Wire Line
+	7581 1567 7581 2057
+Wire Wire Line
+	7581 2057 7581 2542
+Wire Wire Line
+	7581 2542 7581 3032
+Wire Wire Line
+	7581 3032 7581 3492
+Wire Wire Line
+	7581 3492 7581 3982
+Wire Wire Line
+	7581 3982 7581 4467
+Wire Wire Line
+	7581 4467 7581 4957
+Wire Wire Line
+	7581 6027 7581 4957
+Wire Wire Line
+	7581 6027 7861 6027
+Wire Wire Line
+	7781 667  7006 667 
+Wire Wire Line
+	7781 1067 7781 1107
+Wire Wire Line
+	7781 1107 8131 1107
+Wire Wire Line
+	7781 1167 8556 1167
+Wire Wire Line
+	7781 1567 7781 1622
+Wire Wire Line
+	7781 1622 8131 1622
+Wire Wire Line
+	7781 1657 7006 1657
+Wire Wire Line
+	7781 2057 7781 2102
+Wire Wire Line
+	7781 2102 8131 2102
+Wire Wire Line
+	7781 2142 8556 2142
+Wire Wire Line
+	7781 2542 7781 2577
+Wire Wire Line
+	7781 2577 8131 2577
+Wire Wire Line
+	7781 2632 7006 2632
+Wire Wire Line
+	7781 3032 7781 3062
+Wire Wire Line
+	7781 3062 8131 3062
+Wire Wire Line
+	7781 3092 8556 3092
+Wire Wire Line
+	7781 3492 7781 3547
+Wire Wire Line
+	7781 3547 8131 3547
+Wire Wire Line
+	7781 3582 7006 3582
+Wire Wire Line
+	7781 3982 7781 4022
+Wire Wire Line
+	7781 4022 8131 4022
+Wire Wire Line
+	7781 4067 8556 4067
+Wire Wire Line
+	7781 4467 7781 4512
+Wire Wire Line
+	7781 4512 8131 4512
+Wire Wire Line
+	7781 4557 8556 4557
+Wire Wire Line
+	7781 4957 7781 5032
+Wire Wire Line
+	7781 5032 8131 5032
+Wire Wire Line
+	7981 1067 7981 1567
+Wire Wire Line
+	7981 1567 7981 2057
+Wire Wire Line
+	7981 2057 7981 2542
+Wire Wire Line
+	7981 2542 7981 3032
+Wire Wire Line
+	7981 3032 7981 3492
+Wire Wire Line
+	7981 3492 7981 3982
+Wire Wire Line
+	7981 3982 7981 4467
+Wire Wire Line
+	7981 4467 7981 4957
+Wire Wire Line
+	7981 5922 7981 4957
+Wire Wire Line
+	7981 5922 8041 5922
+Wire Wire Line
+	8131 1622 8131 1107
+Wire Wire Line
+	8131 2102 8131 1622
+Wire Wire Line
+	8131 2577 8131 2102
+Wire Wire Line
+	8131 3062 8131 2577
+Wire Wire Line
+	8131 3547 8131 3062
+Wire Wire Line
+	8131 4022 8131 3547
+Wire Wire Line
+	8131 4512 8131 4022
+Wire Wire Line
+	8131 5032 8131 4512
+Wire Wire Line
+	8131 5922 8131 5032
+Wire Wire Line
+	8141 5922 8131 5922
+Wire Wire Line
+	8241 5627 8756 5627
+Wire Wire Line
+	8241 5922 8241 5627
+Wire Wire Line
+	8341 5682 8341 5922
+Wire Wire Line
+	8356 1067 8356 1567
+Wire Wire Line
+	8356 1567 8356 2057
+Wire Wire Line
+	8356 2057 8356 2542
+Wire Wire Line
+	8356 2542 8356 3032
+Wire Wire Line
+	8356 3032 8356 3492
+Wire Wire Line
+	8356 3492 8356 3982
+Wire Wire Line
+	8356 3982 8356 4467
+Wire Wire Line
+	8356 4467 8356 4957
+Wire Wire Line
+	8356 4957 8356 5322
+Wire Wire Line
+	8395 9405 8080 9405
+Wire Wire Line
+	8395 9605 8395 9705
+Wire Wire Line
+	8395 9705 8720 9705
+Wire Wire Line
+	8511 5322 8356 5322
+Wire Wire Line
+	8511 6017 8511 5322
+Wire Wire Line
+	8556 667  7781 667 
+Wire Wire Line
+	8556 1067 8556 1107
+Wire Wire Line
+	8556 1107 8906 1107
+Wire Wire Line
+	8556 1167 9331 1167
+Wire Wire Line
+	8556 1567 8556 1607
+Wire Wire Line
+	8556 1607 8906 1607
+Wire Wire Line
+	8556 1657 7781 1657
+Wire Wire Line
+	8556 2057 8556 2087
+Wire Wire Line
+	8556 2087 8906 2087
+Wire Wire Line
+	8556 2142 9331 2142
+Wire Wire Line
+	8556 2542 8556 2582
+Wire Wire Line
+	8556 2582 8906 2582
+Wire Wire Line
+	8556 2632 7781 2632
+Wire Wire Line
+	8556 3032 8556 3062
+Wire Wire Line
+	8556 3062 8906 3062
+Wire Wire Line
+	8556 3092 9331 3092
+Wire Wire Line
+	8556 3492 8556 3517
+Wire Wire Line
+	8556 3517 8906 3517
+Wire Wire Line
+	8556 3582 7781 3582
+Wire Wire Line
+	8556 3982 8556 4012
+Wire Wire Line
+	8556 4012 8906 4012
+Wire Wire Line
+	8556 4067 9331 4067
+Wire Wire Line
+	8556 4467 8556 4502
+Wire Wire Line
+	8556 4502 8906 4502
+Wire Wire Line
+	8556 4557 9331 4557
+Wire Wire Line
+	8556 4957 8556 5017
+Wire Wire Line
+	8556 5017 8906 5017
+Wire Wire Line
+	8720 9405 8395 9405
+Wire Wire Line
+	8720 9405 8855 9405
+Wire Wire Line
+	8720 9605 8720 9705
+Wire Wire Line
+	8720 9705 8720 9920
+Wire Wire Line
+	8720 9920 10055 9920
+Wire Wire Line
+	8756 1067 8756 1567
+Wire Wire Line
+	8756 1567 8756 2057
+Wire Wire Line
+	8756 2057 8756 2542
+Wire Wire Line
+	8756 2542 8756 3032
+Wire Wire Line
+	8756 3032 8756 3492
+Wire Wire Line
+	8756 3492 8756 3982
+Wire Wire Line
+	8756 3982 8756 4467
+Wire Wire Line
+	8756 4467 8756 4957
+Wire Wire Line
+	8756 5627 8756 4957
+Wire Wire Line
+	8906 1107 8906 1607
+Wire Wire Line
+	8906 1607 8906 2087
+Wire Wire Line
+	8906 2087 8906 2582
+Wire Wire Line
+	8906 2582 8906 3062
+Wire Wire Line
+	8906 3062 8906 3517
+Wire Wire Line
+	8906 3517 8906 4012
+Wire Wire Line
+	8906 4012 8906 4502
+Wire Wire Line
+	8906 4502 8906 5017
+Wire Wire Line
+	8906 5682 8341 5682
+Wire Wire Line
+	8906 5682 8906 5017
+Wire Wire Line
+	9100 8405 8875 8405
+Wire Wire Line
+	9100 8405 9400 8405
+Wire Wire Line
+	9100 8530 9100 8405
+Wire Wire Line
+	9100 8730 9100 8865
+Wire Wire Line
+	9100 8865 8885 8865
+Wire Wire Line
+	9131 1067 9131 1567
+Wire Wire Line
+	9131 1567 9131 2057
+Wire Wire Line
+	9131 2057 9131 2542
+Wire Wire Line
+	9131 2542 9131 3032
+Wire Wire Line
+	9131 3032 9131 3492
+Wire Wire Line
+	9131 3492 9131 3982
+Wire Wire Line
+	9131 3982 9131 4467
+Wire Wire Line
+	9131 4467 9131 4957
+Wire Wire Line
+	9131 6017 9131 4957
+Wire Wire Line
+	9131 6017 9341 6017
+Wire Wire Line
+	9331 667  8556 667 
+Wire Wire Line
+	9331 1067 9331 1107
+Wire Wire Line
+	9331 1107 9681 1107
+Wire Wire Line
+	9331 1167 10106 1167
+Wire Wire Line
+	9331 1567 9331 1612
+Wire Wire Line
+	9331 1612 9681 1612
+Wire Wire Line
+	9331 1657 8556 1657
+Wire Wire Line
+	9331 2057 9331 2097
+Wire Wire Line
+	9331 2097 9681 2097
+Wire Wire Line
+	9331 2142 10106 2142
+Wire Wire Line
+	9331 2542 9331 2577
+Wire Wire Line
+	9331 2577 9681 2577
+Wire Wire Line
+	9331 2632 8556 2632
+Wire Wire Line
+	9331 3032 9331 3062
+Wire Wire Line
+	9331 3062 9681 3062
+Wire Wire Line
+	9331 3092 10106 3092
+Wire Wire Line
+	9331 3492 9331 3532
+Wire Wire Line
+	9331 3532 9681 3532
+Wire Wire Line
+	9331 3582 8556 3582
+Wire Wire Line
+	9331 3982 9331 4027
+Wire Wire Line
+	9331 4027 9681 4027
+Wire Wire Line
+	9331 4067 10106 4067
+Wire Wire Line
+	9331 4467 9331 4507
+Wire Wire Line
+	9331 4507 9681 4507
+Wire Wire Line
+	9331 4557 10106 4557
+Wire Wire Line
+	9331 4957 9331 5012
+Wire Wire Line
+	9331 5012 9681 5012
+Wire Wire Line
+	9400 8405 9695 8405
+Wire Wire Line
+	9400 8535 9400 8405
+Wire Wire Line
+	9400 8735 9400 8865
+Wire Wire Line
+	9400 8865 9100 8865
+Wire Wire Line
+	9521 5322 9531 5322
+Wire Wire Line
+	9521 5912 9521 5322
+Wire Wire Line
+	9531 1067 9531 1567
+Wire Wire Line
+	9531 1567 9531 2057
+Wire Wire Line
+	9531 2057 9531 2542
+Wire Wire Line
+	9531 2542 9531 3032
+Wire Wire Line
+	9531 3032 9531 3492
+Wire Wire Line
+	9531 3492 9531 3982
+Wire Wire Line
+	9531 3982 9531 4467
+Wire Wire Line
+	9531 4467 9531 4957
+Wire Wire Line
+	9531 4957 9531 5322
+Wire Wire Line
+	9621 5322 9681 5322
+Wire Wire Line
+	9621 5912 9621 5322
+Wire Wire Line
+	9681 1107 9681 1612
+Wire Wire Line
+	9681 1612 9681 2097
+Wire Wire Line
+	9681 2097 9681 2577
+Wire Wire Line
+	9681 2577 9681 3062
+Wire Wire Line
+	9681 3062 9681 3532
+Wire Wire Line
+	9681 3532 9681 4027
+Wire Wire Line
+	9681 4027 9681 4507
+Wire Wire Line
+	9681 4507 9681 5012
+Wire Wire Line
+	9681 5012 9681 5322
+Wire Wire Line
+	9695 8405 9695 8535
+Wire Wire Line
+	9695 8405 9995 8405
+Wire Wire Line
+	9695 8735 9695 8865
+Wire Wire Line
+	9695 8865 9400 8865
+Wire Wire Line
+	9721 5642 10306 5642
+Wire Wire Line
+	9721 5912 9721 5642
+Wire Wire Line
+	9821 5747 9821 5912
+Wire Wire Line
+	9906 1067 9906 1567
+Wire Wire Line
+	9906 1567 9906 2057
+Wire Wire Line
+	9906 2057 9906 2542
+Wire Wire Line
+	9906 2542 9906 3032
+Wire Wire Line
+	9906 3032 9906 3492
+Wire Wire Line
+	9906 3492 9906 3982
+Wire Wire Line
+	9906 3982 9906 4467
+Wire Wire Line
+	9906 4467 9906 4957
+Wire Wire Line
+	9906 4957 9906 5322
+Wire Wire Line
+	9991 5322 9906 5322
+Wire Wire Line
+	9991 6007 9991 5322
+Wire Wire Line
+	9995 8405 9995 8540
+Wire Wire Line
+	9995 8405 10290 8405
+Wire Wire Line
+	9995 8740 9995 8865
+Wire Wire Line
+	9995 8865 9695 8865
+Wire Wire Line
+	10050 9405 10055 9405
+Wire Wire Line
+	10055 9405 10270 9405
+Wire Wire Line
+	10055 9605 10055 9920
+Wire Wire Line
+	10055 9920 10430 9920
+Wire Wire Line
+	10106 667  9331 667 
+Wire Wire Line
+	10106 1067 10106 1107
+Wire Wire Line
+	10106 1107 10456 1107
+Wire Wire Line
+	10106 1167 10881 1167
+Wire Wire Line
+	10106 1567 10106 1612
+Wire Wire Line
+	10106 1612 10456 1612
+Wire Wire Line
+	10106 1657 9331 1657
+Wire Wire Line
+	10106 2057 10106 2112
+Wire Wire Line
+	10106 2112 10456 2112
+Wire Wire Line
+	10106 2142 10881 2142
+Wire Wire Line
+	10106 2542 10106 2592
+Wire Wire Line
+	10106 2592 10456 2592
+Wire Wire Line
+	10106 2632 9331 2632
+Wire Wire Line
+	10106 3032 10106 3067
+Wire Wire Line
+	10106 3067 10456 3067
+Wire Wire Line
+	10106 3092 10881 3092
+Wire Wire Line
+	10106 3492 10106 3532
+Wire Wire Line
+	10106 3532 10456 3532
+Wire Wire Line
+	10106 3582 9331 3582
+Wire Wire Line
+	10106 3982 10106 4027
+Wire Wire Line
+	10106 4027 10456 4027
+Wire Wire Line
+	10106 4067 10881 4067
+Wire Wire Line
+	10106 4467 10106 4517
+Wire Wire Line
+	10106 4517 10456 4517
+Wire Wire Line
+	10106 4557 10881 4557
+Wire Wire Line
+	10106 4957 10106 5007
+Wire Wire Line
+	10106 5007 10456 5007
+Wire Wire Line
+	10270 9405 10580 9405
+Wire Wire Line
+	10270 9605 10270 9705
+Wire Wire Line
+	10270 9705 10430 9705
+Wire Wire Line
+	10290 8405 10590 8405
+Wire Wire Line
+	10290 8535 10290 8405
+Wire Wire Line
+	10290 8735 10290 8865
+Wire Wire Line
+	10290 8865 9995 8865
+Wire Wire Line
+	10306 1067 10306 1567
+Wire Wire Line
+	10306 1567 10306 2057
+Wire Wire Line
+	10306 2057 10306 2542
+Wire Wire Line
+	10306 2542 10306 3032
+Wire Wire Line
+	10306 3032 10306 3492
+Wire Wire Line
+	10306 3492 10306 3982
+Wire Wire Line
+	10306 3982 10306 4467
+Wire Wire Line
+	10306 4467 10306 4957
+Wire Wire Line
+	10306 5642 10306 4957
+Wire Wire Line
+	10430 9705 10580 9705
+Wire Wire Line
+	10430 9920 10430 9705
+Wire Wire Line
+	10456 1107 10456 1612
+Wire Wire Line
+	10456 1612 10456 2112
+Wire Wire Line
+	10456 2112 10456 2592
+Wire Wire Line
+	10456 2592 10456 3067
+Wire Wire Line
+	10456 3067 10456 3532
+Wire Wire Line
+	10456 3532 10456 4027
+Wire Wire Line
+	10456 4517 10456 4027
+Wire Wire Line
+	10456 5007 10456 4517
+Wire Wire Line
+	10456 5747 9821 5747
+Wire Wire Line
+	10456 5747 10456 5007
+Wire Wire Line
+	10580 9405 10835 9405
+Wire Wire Line
+	10580 9705 10580 9605
+Wire Wire Line
+	10590 8540 10590 8405
+Wire Wire Line
+	10590 8740 10590 8865
+Wire Wire Line
+	10590 8865 10290 8865
+Wire Wire Line
+	10681 1067 10681 1567
+Wire Wire Line
+	10681 1567 10681 2057
+Wire Wire Line
+	10681 2057 10681 2542
+Wire Wire Line
+	10681 2542 10681 3032
+Wire Wire Line
+	10681 3032 10681 3492
+Wire Wire Line
+	10681 3492 10681 3982
+Wire Wire Line
+	10681 3982 10681 4467
+Wire Wire Line
+	10681 4467 10681 4957
+Wire Wire Line
+	10681 5987 10681 4957
+Wire Wire Line
+	10681 5987 10911 5987
+Wire Wire Line
+	10881 667  10106 667 
+Wire Wire Line
+	10881 1067 10881 1107
+Wire Wire Line
+	10881 1107 11231 1107
+Wire Wire Line
+	10881 1167 11656 1167
+Wire Wire Line
+	10881 1567 10881 1612
+Wire Wire Line
+	10881 1612 11231 1612
+Wire Wire Line
+	10881 1657 10106 1657
+Wire Wire Line
+	10881 2057 10881 2107
+Wire Wire Line
+	10881 2107 11231 2107
+Wire Wire Line
+	10881 2142 11656 2142
+Wire Wire Line
+	10881 2542 10881 2587
+Wire Wire Line
+	10881 2587 11231 2587
+Wire Wire Line
+	10881 2632 10106 2632
+Wire Wire Line
+	10881 3032 10881 3067
+Wire Wire Line
+	10881 3067 11231 3067
+Wire Wire Line
+	10881 3092 11656 3092
+Wire Wire Line
+	10881 3492 10881 3542
+Wire Wire Line
+	10881 3542 11231 3542
+Wire Wire Line
+	10881 3582 10106 3582
+Wire Wire Line
+	10881 3982 10881 4027
+Wire Wire Line
+	10881 4027 11231 4027
+Wire Wire Line
+	10881 4067 11656 4067
+Wire Wire Line
+	10881 4467 10881 4522
+Wire Wire Line
+	10881 4522 11231 4522
+Wire Wire Line
+	10881 4557 11656 4557
+Wire Wire Line
+	10881 4957 10881 5027
+Wire Wire Line
+	10881 5027 11231 5027
+Wire Wire Line
+	11081 1067 11081 1567
+Wire Wire Line
+	11081 1567 11081 2057
+Wire Wire Line
+	11081 2057 11081 2542
+Wire Wire Line
+	11081 2542 11081 3032
+Wire Wire Line
+	11081 3032 11081 3492
+Wire Wire Line
+	11081 3492 11081 3982
+Wire Wire Line
+	11081 3982 11081 4467
+Wire Wire Line
+	11081 4467 11081 4957
+Wire Wire Line
+	11081 4957 11081 5322
+Wire Wire Line
+	11091 5322 11081 5322
+Wire Wire Line
+	11091 5882 11091 5322
+Wire Wire Line
+	11231 1107 11231 1612
+Wire Wire Line
+	11231 1612 11231 2107
+Wire Wire Line
+	11231 2107 11231 2587
+Wire Wire Line
+	11231 2587 11231 3067
+Wire Wire Line
+	11231 3067 11231 3542
+Wire Wire Line
+	11231 3542 11231 4027
+Wire Wire Line
+	11231 4027 11231 4522
+Wire Wire Line
+	11231 4522 11231 5027
+Wire Wire Line
+	11231 5882 11191 5882
+Wire Wire Line
+	11231 5882 11231 5027
+Wire Wire Line
+	11291 5662 11856 5662
+Wire Wire Line
+	11291 5882 11291 5662
+Wire Wire Line
+	11391 5782 11391 5882
+Wire Wire Line
+	11456 1067 11456 1567
+Wire Wire Line
+	11456 1567 11456 2057
+Wire Wire Line
+	11456 2057 11456 2542
+Wire Wire Line
+	11456 2542 11456 3032
+Wire Wire Line
+	11456 3032 11456 3492
+Wire Wire Line
+	11456 3492 11456 3982
+Wire Wire Line
+	11456 3982 11456 4467
+Wire Wire Line
+	11456 4467 11456 4957
+Wire Wire Line
+	11456 4957 11456 5322
+Wire Wire Line
+	11561 5322 11456 5322
+Wire Wire Line
+	11561 5977 11561 5322
+Wire Wire Line
+	11656 667  10881 667 
+Wire Wire Line
+	11656 1067 11656 1107
+Wire Wire Line
+	11656 1107 12006 1107
+Wire Wire Line
+	11656 1167 12456 1167
+Wire Wire Line
+	11656 1567 11656 1607
+Wire Wire Line
+	11656 1607 12006 1607
+Wire Wire Line
+	11656 1657 10881 1657
+Wire Wire Line
+	11656 2057 11656 2092
+Wire Wire Line
+	11656 2092 12006 2092
+Wire Wire Line
+	11656 2142 12456 2142
+Wire Wire Line
+	11656 2542 11656 2587
+Wire Wire Line
+	11656 2587 12006 2587
+Wire Wire Line
+	11656 2632 10881 2632
+Wire Wire Line
+	11656 3032 11656 3062
+Wire Wire Line
+	11656 3062 12006 3062
+Wire Wire Line
+	11656 3092 12456 3092
+Wire Wire Line
+	11656 3492 11656 3532
+Wire Wire Line
+	11656 3532 12006 3532
+Wire Wire Line
+	11656 3582 10881 3582
+Wire Wire Line
+	11656 3982 11656 4022
+Wire Wire Line
+	11656 4022 12006 4022
+Wire Wire Line
+	11656 4067 12456 4067
+Wire Wire Line
+	11656 4467 11656 4517
+Wire Wire Line
+	11656 4517 12006 4517
+Wire Wire Line
+	11656 4557 12456 4557
+Wire Wire Line
+	11656 4957 11656 5012
+Wire Wire Line
+	11656 5012 12006 5012
+Wire Wire Line
+	11856 1067 11856 1567
+Wire Wire Line
+	11856 1567 11856 2057
+Wire Wire Line
+	11856 2057 11856 2542
+Wire Wire Line
+	11856 2542 11856 3032
+Wire Wire Line
+	11856 3032 11856 3492
+Wire Wire Line
+	11856 3492 11856 3982
+Wire Wire Line
+	11856 3982 11856 4467
+Wire Wire Line
+	11856 4467 11856 4957
+Wire Wire Line
+	11856 5662 11856 4957
+Wire Wire Line
+	12006 1107 12006 1607
+Wire Wire Line
+	12006 1607 12006 2092
+Wire Wire Line
+	12006 2092 12006 2587
+Wire Wire Line
+	12006 2587 12006 3062
+Wire Wire Line
+	12006 3062 12006 3532
+Wire Wire Line
+	12006 3532 12006 4022
+Wire Wire Line
+	12006 4022 12006 4517
+Wire Wire Line
+	12006 4517 12006 5012
+Wire Wire Line
+	12006 5782 11391 5782
+Wire Wire Line
+	12006 5782 12006 5012
+Wire Wire Line
+	12256 1067 12256 1567
+Wire Wire Line
+	12256 1567 12256 2057
+Wire Wire Line
+	12256 2057 12256 2542
+Wire Wire Line
+	12256 2542 12256 3032
+Wire Wire Line
+	12256 3032 12256 3492
+Wire Wire Line
+	12256 3492 12256 3982
+Wire Wire Line
+	12256 3982 12256 4467
+Wire Wire Line
+	12256 4467 12256 4957
+Wire Wire Line
+	12256 5957 12256 4957
+Wire Wire Line
+	12256 5957 12491 5957
+Wire Wire Line
+	12456 667  11656 667 
+Wire Wire Line
+	12456 1067 12456 1107
+Wire Wire Line
+	12456 1107 12806 1107
+Wire Wire Line
+	12456 1167 13231 1167
+Wire Wire Line
+	12456 1567 12456 1617
+Wire Wire Line
+	12456 1617 12806 1617
+Wire Wire Line
+	12456 1657 11656 1657
+Wire Wire Line
+	12456 2057 12456 2102
+Wire Wire Line
+	12456 2102 12806 2102
+Wire Wire Line
+	12456 2142 13231 2142
+Wire Wire Line
+	12456 2542 12456 2587
+Wire Wire Line
+	12456 2587 12806 2587
+Wire Wire Line
+	12456 2632 11656 2632
+Wire Wire Line
+	12456 3032 12456 3067
+Wire Wire Line
+	12456 3067 12806 3067
+Wire Wire Line
+	12456 3092 13231 3092
+Wire Wire Line
+	12456 3492 12456 3547
+Wire Wire Line
+	12456 3547 12806 3547
+Wire Wire Line
+	12456 3582 11656 3582
+Wire Wire Line
+	12456 3982 12456 4027
+Wire Wire Line
+	12456 4027 12806 4027
+Wire Wire Line
+	12456 4067 13231 4067
+Wire Wire Line
+	12456 4467 12456 4522
+Wire Wire Line
+	12456 4522 12806 4522
+Wire Wire Line
+	12456 4557 13231 4557
+Wire Wire Line
+	12456 4957 12456 5012
+Wire Wire Line
+	12456 5012 12806 5012
+Wire Wire Line
+	12656 1067 12656 1567
+Wire Wire Line
+	12656 1567 12656 2057
+Wire Wire Line
+	12656 2057 12656 2542
+Wire Wire Line
+	12656 2542 12656 3032
+Wire Wire Line
+	12656 3032 12656 3492
+Wire Wire Line
+	12656 3492 12656 3982
+Wire Wire Line
+	12656 3982 12656 4467
+Wire Wire Line
+	12656 4467 12656 4957
+Wire Wire Line
+	12656 4957 12656 5322
+Wire Wire Line
+	12671 5322 12656 5322
+Wire Wire Line
+	12671 5852 12671 5322
+Wire Wire Line
+	12806 1107 12806 1617
+Wire Wire Line
+	12806 1617 12806 2102
+Wire Wire Line
+	12806 2102 12806 2587
+Wire Wire Line
+	12806 2587 12806 3067
+Wire Wire Line
+	12806 3067 12806 3547
+Wire Wire Line
+	12806 3547 12806 4027
+Wire Wire Line
+	12806 4027 12806 4522
+Wire Wire Line
+	12806 4522 12806 5012
+Wire Wire Line
+	12806 5852 12771 5852
+Wire Wire Line
+	12806 5852 12806 5012
+Wire Wire Line
+	12871 5537 13431 5537
+Wire Wire Line
+	12871 5852 12871 5537
+Wire Wire Line
+	12971 5637 12971 5852
+Wire Wire Line
+	13031 1067 13031 1567
+Wire Wire Line
+	13031 1567 13031 2057
+Wire Wire Line
+	13031 2057 13031 2542
+Wire Wire Line
+	13031 2542 13031 3032
+Wire Wire Line
+	13031 3032 13031 3492
+Wire Wire Line
+	13031 3492 13031 3982
+Wire Wire Line
+	13031 3982 13031 4467
+Wire Wire Line
+	13031 4467 13031 4957
+Wire Wire Line
+	13031 4957 13031 5322
+Wire Wire Line
+	13141 5322 13031 5322
+Wire Wire Line
+	13141 5947 13141 5322
+Wire Wire Line
+	13231 667  12456 667 
+Wire Wire Line
+	13231 1067 13231 1107
+Wire Wire Line
+	13231 1107 13581 1107
+Wire Wire Line
+	13231 1167 14006 1167
+Wire Wire Line
+	13231 1567 13231 1607
+Wire Wire Line
+	13231 1607 13581 1607
+Wire Wire Line
+	13231 1657 12456 1657
+Wire Wire Line
+	13231 2057 13231 2092
+Wire Wire Line
+	13231 2092 13581 2092
+Wire Wire Line
+	13231 2142 14006 2142
+Wire Wire Line
+	13231 2542 13231 2587
+Wire Wire Line
+	13231 2587 13581 2587
+Wire Wire Line
+	13231 2632 12456 2632
+Wire Wire Line
+	13231 3032 13231 3062
+Wire Wire Line
+	13231 3062 13581 3062
+Wire Wire Line
+	13231 3092 14006 3092
+Wire Wire Line
+	13231 3492 13231 3532
+Wire Wire Line
+	13231 3532 13581 3532
+Wire Wire Line
+	13231 3582 12456 3582
+Wire Wire Line
+	13231 3982 13231 4027
+Wire Wire Line
+	13231 4027 13581 4027
+Wire Wire Line
+	13231 4067 14006 4067
+Wire Wire Line
+	13231 4467 13231 4512
+Wire Wire Line
+	13231 4512 13581 4512
+Wire Wire Line
+	13231 4557 14006 4557
+Wire Wire Line
+	13231 4957 13231 5012
+Wire Wire Line
+	13231 5012 13581 5012
+Wire Wire Line
+	13431 1067 13431 1567
+Wire Wire Line
+	13431 1567 13431 2057
+Wire Wire Line
+	13431 2057 13431 2542
+Wire Wire Line
+	13431 2542 13431 3032
+Wire Wire Line
+	13431 3032 13431 3492
+Wire Wire Line
+	13431 3492 13431 3982
+Wire Wire Line
+	13431 3982 13431 4467
+Wire Wire Line
+	13431 4467 13431 4957
+Wire Wire Line
+	13431 5537 13431 4957
+Wire Wire Line
+	13581 1107 13581 1607
+Wire Wire Line
+	13581 1607 13581 2092
+Wire Wire Line
+	13581 2092 13581 2587
+Wire Wire Line
+	13581 2587 13581 3062
+Wire Wire Line
+	13581 3062 13581 3532
+Wire Wire Line
+	13581 3532 13581 4027
+Wire Wire Line
+	13581 4027 13581 4512
+Wire Wire Line
+	13581 4512 13581 5012
+Wire Wire Line
+	13581 5637 12971 5637
+Wire Wire Line
+	13581 5637 13581 5012
+Wire Wire Line
+	13806 1067 13806 1567
+Wire Wire Line
+	13806 1567 13806 2057
+Wire Wire Line
+	13806 2057 13806 2542
+Wire Wire Line
+	13806 2542 13806 3032
+Wire Wire Line
+	13806 3032 13806 3492
+Wire Wire Line
+	13806 3492 13806 3982
+Wire Wire Line
+	13806 3982 13806 4467
+Wire Wire Line
+	13806 4467 13806 4957
+Wire Wire Line
+	13806 5907 13806 4957
+Wire Wire Line
+	13806 5907 14041 5907
+Wire Wire Line
+	14006 667  13231 667 
+Wire Wire Line
+	14006 1067 14006 1107
+Wire Wire Line
+	14006 1107 14356 1107
+Wire Wire Line
+	14006 1167 14781 1167
+Wire Wire Line
+	14006 1567 14006 1617
+Wire Wire Line
+	14006 1617 14356 1617
+Wire Wire Line
+	14006 1657 13231 1657
+Wire Wire Line
+	14006 2057 14006 2097
+Wire Wire Line
+	14006 2097 14356 2097
+Wire Wire Line
+	14006 2142 14781 2142
+Wire Wire Line
+	14006 2542 14006 2582
+Wire Wire Line
+	14006 2582 14356 2582
+Wire Wire Line
+	14006 2632 13231 2632
+Wire Wire Line
+	14006 3032 14006 3062
+Wire Wire Line
+	14006 3062 14356 3062
+Wire Wire Line
+	14006 3092 14781 3092
+Wire Wire Line
+	14006 3492 14006 3532
+Wire Wire Line
+	14006 3532 14356 3532
+Wire Wire Line
+	14006 3582 13231 3582
+Wire Wire Line
+	14006 3982 14006 4027
+Wire Wire Line
+	14006 4027 14356 4027
+Wire Wire Line
+	14006 4067 14781 4067
+Wire Wire Line
+	14006 4467 14006 4502
+Wire Wire Line
+	14006 4502 14356 4502
+Wire Wire Line
+	14006 4557 14781 4557
+Wire Wire Line
+	14006 4957 14006 5007
+Wire Wire Line
+	14006 5007 14356 5007
+Wire Wire Line
+	14206 1067 14206 1567
+Wire Wire Line
+	14206 1567 14206 2057
+Wire Wire Line
+	14206 2057 14206 2542
+Wire Wire Line
+	14206 2542 14206 3032
+Wire Wire Line
+	14206 3032 14206 3492
+Wire Wire Line
+	14206 3492 14206 3982
+Wire Wire Line
+	14206 3982 14206 4467
+Wire Wire Line
+	14206 4467 14206 4957
+Wire Wire Line
+	14206 4957 14206 5322
+Wire Wire Line
+	14221 5322 14206 5322
+Wire Wire Line
+	14221 5802 14221 5322
+Wire Wire Line
+	14356 1107 14356 1617
+Wire Wire Line
+	14356 1617 14356 2097
+Wire Wire Line
+	14356 2097 14356 2582
+Wire Wire Line
+	14356 2582 14356 3062
+Wire Wire Line
+	14356 3062 14356 3532
+Wire Wire Line
+	14356 3532 14356 4027
+Wire Wire Line
+	14356 4027 14356 4502
+Wire Wire Line
+	14356 4502 14356 5007
+Wire Wire Line
+	14356 5802 14321 5802
+Wire Wire Line
+	14356 5802 14356 5007
+Wire Wire Line
+	14421 5462 14981 5462
+Wire Wire Line
+	14421 5802 14421 5462
+Wire Wire Line
+	14521 5547 14521 5802
+Wire Wire Line
+	14581 1067 14581 1567
+Wire Wire Line
+	14581 1567 14581 2057
+Wire Wire Line
+	14581 2057 14581 2542
+Wire Wire Line
+	14581 2542 14581 3032
+Wire Wire Line
+	14581 3032 14581 3492
+Wire Wire Line
+	14581 3492 14581 3982
+Wire Wire Line
+	14581 3982 14581 4467
+Wire Wire Line
+	14581 4467 14581 4957
+Wire Wire Line
+	14581 4957 14581 5322
+Wire Wire Line
+	14691 5322 14581 5322
+Wire Wire Line
+	14691 5897 14691 5322
+Wire Wire Line
+	14781 667  14006 667 
+Wire Wire Line
+	14781 1067 14781 1107
+Wire Wire Line
+	14781 1107 15131 1107
+Wire Wire Line
+	14781 1167 15556 1167
+Wire Wire Line
+	14781 1567 14781 1607
+Wire Wire Line
+	14781 1607 15131 1607
+Wire Wire Line
+	14781 1657 14006 1657
+Wire Wire Line
+	14781 2057 14781 2097
+Wire Wire Line
+	14781 2097 15131 2097
+Wire Wire Line
+	14781 2142 15556 2142
+Wire Wire Line
+	14781 2542 14781 2582
+Wire Wire Line
+	14781 2582 15131 2582
+Wire Wire Line
+	14781 2632 14006 2632
+Wire Wire Line
+	14781 3032 14781 3062
+Wire Wire Line
+	14781 3062 15131 3062
+Wire Wire Line
+	14781 3092 15556 3092
+Wire Wire Line
+	14781 3492 14781 3527
+Wire Wire Line
+	14781 3527 15131 3527
+Wire Wire Line
+	14781 3582 14006 3582
+Wire Wire Line
+	14781 3982 14781 4027
+Wire Wire Line
+	14781 4027 15131 4027
+Wire Wire Line
+	14781 4067 15556 4067
+Wire Wire Line
+	14781 4467 14781 4517
+Wire Wire Line
+	14781 4517 15131 4517
+Wire Wire Line
+	14781 4557 15556 4557
+Wire Wire Line
+	14781 4957 14781 5027
+Wire Wire Line
+	14781 5027 15131 5027
+Wire Wire Line
+	14981 1067 14981 1567
+Wire Wire Line
+	14981 1567 14981 2057
+Wire Wire Line
+	14981 2057 14981 2542
+Wire Wire Line
+	14981 2542 14981 3032
+Wire Wire Line
+	14981 3032 14981 3492
+Wire Wire Line
+	14981 3492 14981 3982
+Wire Wire Line
+	14981 3982 14981 4467
+Wire Wire Line
+	14981 4467 14981 4957
+Wire Wire Line
+	14981 5462 14981 4957
+Wire Wire Line
+	15131 1107 15131 1607
+Wire Wire Line
+	15131 1607 15131 2097
+Wire Wire Line
+	15131 2097 15131 2582
+Wire Wire Line
+	15131 2582 15131 3062
+Wire Wire Line
+	15131 3062 15131 3527
+Wire Wire Line
+	15131 3527 15131 4027
+Wire Wire Line
+	15131 4027 15131 4517
+Wire Wire Line
+	15131 4517 15131 5027
+Wire Wire Line
+	15131 5547 14521 5547
+Wire Wire Line
+	15131 5547 15131 5027
+Wire Wire Line
+	15356 1067 15356 1567
+Wire Wire Line
+	15356 1567 15356 2057
+Wire Wire Line
+	15356 2057 15356 2542
+Wire Wire Line
+	15356 2542 15356 3032
+Wire Wire Line
+	15356 3032 15356 3492
+Wire Wire Line
+	15356 3492 15356 3982
+Wire Wire Line
+	15356 3982 15356 4467
+Wire Wire Line
+	15356 4467 15356 4957
+Wire Wire Line
+	15356 5917 15356 4957
+Wire Wire Line
+	15356 5917 15441 5917
+Wire Wire Line
+	15556 667  14781 667 
+Wire Wire Line
+	15556 1067 15556 1107
+Wire Wire Line
+	15556 1107 15906 1107
+Wire Wire Line
+	15556 1567 15556 1632
+Wire Wire Line
+	15556 1632 15906 1632
+Wire Wire Line
+	15556 1657 14781 1657
+Wire Wire Line
+	15556 2057 15556 2112
+Wire Wire Line
+	15556 2112 15906 2112
+Wire Wire Line
+	15556 2542 15556 2602
+Wire Wire Line
+	15556 2602 15906 2602
+Wire Wire Line
+	15556 2632 14781 2632
+Wire Wire Line
+	15556 3032 15556 3072
+Wire Wire Line
+	15556 3072 15906 3072
+Wire Wire Line
+	15556 3492 15556 3552
+Wire Wire Line
+	15556 3552 15906 3552
+Wire Wire Line
+	15556 3582 14781 3582
+Wire Wire Line
+	15556 3982 15556 4042
+Wire Wire Line
+	15556 4042 15906 4042
+Wire Wire Line
+	15556 4467 15556 4522
+Wire Wire Line
+	15556 4522 15906 4522
+Wire Wire Line
+	15556 4957 15556 5017
+Wire Wire Line
+	15556 5017 15906 5017
+Wire Wire Line
+	15596 5322 15756 5322
+Wire Wire Line
+	15596 5912 15596 5322
+Wire Wire Line
+	15741 5522 15906 5522
+Wire Wire Line
+	15741 5907 15741 5522
+Wire Wire Line
+	15756 1567 15756 1067
+Wire Wire Line
+	15756 2057 15756 1567
+Wire Wire Line
+	15756 2542 15756 2057
+Wire Wire Line
+	15756 3032 15756 2542
+Wire Wire Line
+	15756 3492 15756 3032
+Wire Wire Line
+	15756 3982 15756 3492
+Wire Wire Line
+	15756 4467 15756 3982
+Wire Wire Line
+	15756 4957 15756 4467
+Wire Wire Line
+	15756 5322 15756 4957
+Wire Wire Line
+	15906 1107 15906 1632
+Wire Wire Line
+	15906 1632 15906 2112
+Wire Wire Line
+	15906 2112 15906 2602
+Wire Wire Line
+	15906 2602 15906 3072
+Wire Wire Line
+	15906 3072 15906 3552
+Wire Wire Line
+	15906 3552 15906 4042
+Wire Wire Line
+	15906 4042 15906 4522
+Wire Wire Line
+	15906 4522 15906 5017
+Wire Wire Line
+	15906 5522 15906 5017
+Text GLabel 905  8340 0    50   Input ~ 0
+INT
+Text GLabel 905  8840 0    50   Input ~ 0
+SDA
+Text GLabel 905  9090 0    50   Input ~ 0
+SCL
+Text GLabel 905  9340 0    50   Input ~ 0
+SDB
+Text GLabel 1615 6840 0    50   Input ~ 0
+COL33
+Text GLabel 1615 7090 0    50   Input ~ 0
+COL34
+Text GLabel 1615 7340 0    50   Input ~ 0
+COL35
+Text GLabel 1615 7590 0    50   Input ~ 0
+COL36
+Text GLabel 1615 7840 0    50   Input ~ 0
+COL37
+Text GLabel 1615 8090 0    50   Input ~ 0
+COL38
+Text GLabel 1965 6490 1    50   Input ~ 0
+COL32
+Text GLabel 1965 10690 3    50   Input ~ 0
+ROW0
+Text GLabel 2215 6490 1    50   Input ~ 0
+COL31
+Text GLabel 2215 10690 3    50   Input ~ 0
+ROW1
+Text GLabel 2465 6490 1    50   Input ~ 0
+COL30
+Text GLabel 2465 10690 3    50   Input ~ 0
+ROW2
+Text GLabel 2715 6490 1    50   Input ~ 0
+COL29
+Text GLabel 2715 10690 3    50   Input ~ 0
+ROW3
+Text GLabel 2965 6490 1    50   Input ~ 0
+COL28
+Text GLabel 2965 10690 3    50   Input ~ 0
+ROW4
+Text GLabel 3215 10690 3    50   Input ~ 0
+ROW5
+Text GLabel 3465 6490 1    50   Input ~ 0
+COL27
+Text GLabel 3465 10690 3    50   Input ~ 0
+ROW6
+Text GLabel 3715 6490 1    50   Input ~ 0
+COL26
+Text GLabel 3715 10690 3    50   Input ~ 0
+ROW7
+Text GLabel 3965 10690 3    50   Input ~ 0
+ROW8
+Text GLabel 3990 6490 1    50   Input ~ 0
+COL25
+Text GLabel 4215 6490 1    50   Input ~ 0
+COL24
+Text GLabel 4465 6490 1    50   Input ~ 0
+COL23
+Text GLabel 4465 10690 3    50   Input ~ 0
+COL0
+Text GLabel 4715 6490 1    50   Input ~ 0
+COL22
+Text GLabel 4715 10690 3    50   Input ~ 0
+COL1
+Text GLabel 4965 6490 1    50   Input ~ 0
+COL21
+Text GLabel 4965 10690 3    50   Input ~ 0
+COL2
+Text GLabel 5215 6490 1    50   Input ~ 0
+COL20
+Text GLabel 5215 10690 3    50   Input ~ 0
+COL3
+Text GLabel 5465 6490 1    50   Input ~ 0
+COL19
+Text GLabel 5465 10690 3    50   Input ~ 0
+COL4
+Text GLabel 5626 667  0    50   Input ~ 0
+ROW0
+Text GLabel 5626 1167 0    50   Input ~ 0
+ROW1
+Text GLabel 5626 1657 0    50   Input ~ 0
+ROW2
+Text GLabel 5626 2142 0    50   Input ~ 0
+ROW3
+Text GLabel 5626 2632 0    50   Input ~ 0
+ROW4
+Text GLabel 5626 3092 0    50   Input ~ 0
+ROW5
+Text GLabel 5626 3582 0    50   Input ~ 0
+ROW6
+Text GLabel 5626 4067 0    50   Input ~ 0
+ROW7
+Text GLabel 5626 4557 0    50   Input ~ 0
+ROW8
+Text GLabel 5815 6840 2    50   Input ~ 0
+COL18
+Text GLabel 5815 7090 2    50   Input ~ 0
+COL17
+Text GLabel 5815 7340 2    50   Input ~ 0
+COL16
+Text GLabel 5815 7590 2    50   Input ~ 0
+COL15
+Text GLabel 5815 7840 2    50   Input ~ 0
+COL14
+Text GLabel 5815 8090 2    50   Input ~ 0
+COL13
+Text GLabel 5815 8340 2    50   Input ~ 0
+COL12
+Text GLabel 5815 8590 2    50   Input ~ 0
+COL11
+Text GLabel 5815 8840 2    50   Input ~ 0
+COL10
+Text GLabel 5815 9340 2    50   Input ~ 0
+COL9
+Text GLabel 5815 9590 2    50   Input ~ 0
+COL8
+Text GLabel 5815 9840 2    50   Input ~ 0
+COL7
+Text GLabel 5815 10090 2    50   Input ~ 0
+COL6
+Text GLabel 5815 10340 2    50   Input ~ 0
+COL5
+Text GLabel 6381 6282 3    50   Input ~ 0
+COL0
+Text GLabel 6561 6377 3    50   Input ~ 0
+COL1
+Text GLabel 6661 6377 3    50   Input ~ 0
+COL2
+Text GLabel 6761 6377 3    50   Input ~ 0
+COL3
+Text GLabel 6861 6377 3    50   Input ~ 0
+COL4
+Text GLabel 7031 6272 3    50   Input ~ 0
+COL5
+Text GLabel 7861 6227 3    50   Input ~ 0
+COL6
+Text GLabel 8041 6322 3    50   Input ~ 0
+COL7
+Text GLabel 8141 6322 3    50   Input ~ 0
+COL8
+Text GLabel 8241 6322 3    50   Input ~ 0
+COL9
+Text GLabel 8285 10210 0    50   Input ~ 0
+VCC
+Text GLabel 8285 10310 0    50   Input ~ 0
+GND
+Text GLabel 8285 10410 0    50   Input ~ 0
+SCL
+Text GLabel 8285 10510 0    50   Input ~ 0
+SDA
+Text GLabel 8285 10610 0    50   Input ~ 0
+SDB
+Text GLabel 8285 10710 0    50   Input ~ 0
+INT
+Text GLabel 8341 6322 3    50   Input ~ 0
+COL10
+Text GLabel 8511 6217 3    50   Input ~ 0
+COL11
+Text GLabel 8970 10210 0    50   Input ~ 0
+VCC
+Text GLabel 8970 10310 0    50   Input ~ 0
+GND
+Text GLabel 8970 10410 0    50   Input ~ 0
+SCL
+Text GLabel 8970 10510 0    50   Input ~ 0
+SDA
+Text GLabel 8970 10610 0    50   Input ~ 0
+SDB
+Text GLabel 8970 10710 0    50   Input ~ 0
+INT
+Text GLabel 9341 6217 3    50   Input ~ 0
+COL12
+Text GLabel 9521 6312 3    50   Input ~ 0
+COL13
+Text GLabel 9621 6312 3    50   Input ~ 0
+COL14
+Text GLabel 9721 6312 3    50   Input ~ 0
+COL15
+Text GLabel 9821 6312 3    50   Input ~ 0
+COL16
+Text GLabel 9991 6207 3    50   Input ~ 0
+COL17
+Text GLabel 10911 6187 3    50   Input ~ 0
+COL18
+Text GLabel 11091 6282 3    50   Input ~ 0
+COL19
+Text GLabel 11191 6282 3    50   Input ~ 0
+COL20
+Text GLabel 11291 6282 3    50   Input ~ 0
+COL21
+Text GLabel 11391 6282 3    50   Input ~ 0
+COL22
+Text GLabel 11561 6177 3    50   Input ~ 0
+COL23
+Text GLabel 12491 6157 3    50   Input ~ 0
+COL24
+Text GLabel 12671 6252 3    50   Input ~ 0
+COL25
+Text GLabel 12771 6252 3    50   Input ~ 0
+COL26
+Text GLabel 12871 6252 3    50   Input ~ 0
+COL27
+Text GLabel 12971 6252 3    50   Input ~ 0
+COL28
+Text GLabel 13141 6147 3    50   Input ~ 0
+COL29
+Text GLabel 14041 6107 3    50   Input ~ 0
+COL30
+Text GLabel 14221 6202 3    50   Input ~ 0
+COL31
+Text GLabel 14321 6202 3    50   Input ~ 0
+COL32
+Text GLabel 14421 6202 3    50   Input ~ 0
+COL33
+Text GLabel 14521 6202 3    50   Input ~ 0
+COL34
+Text GLabel 14691 6097 3    50   Input ~ 0
+COL35
+Text GLabel 15441 6117 3    50   Input ~ 0
+COL36
+Text GLabel 15596 6112 3    50   Input ~ 0
+COL37
+Text GLabel 15741 6107 3    50   Input ~ 0
+COL38
+$Comp
+L power:+3.3V #PWR?
+U 1 1 00000000
+P 1065 8220
+F 0 "#PWR?" H 1065 8070 50  0001 C CNN
+F 1 "+3.3V" V 1080 8348 50  0000 L CNN
+F 2 "" H 1065 8220 50  0001 C CNN
+F 3 "" H 1065 8220 50  0001 C CNN
+	1    1065 8220
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 00000000
+P 1065 8720
+F 0 "#PWR?" H 1065 8570 50  0001 C CNN
+F 1 "+3.3V" V 1080 8848 50  0000 L CNN
+F 2 "" H 1065 8720 50  0001 C CNN
+F 3 "" H 1065 8720 50  0001 C CNN
+	1    1065 8720
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 00000000
+P 1065 8970
+F 0 "#PWR?" H 1065 8820 50  0001 C CNN
+F 1 "+3.3V" V 1080 9098 50  0000 L CNN
+F 2 "" H 1065 8970 50  0001 C CNN
+F 3 "" H 1065 8970 50  0001 C CNN
+	1    1065 8970
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 00000000
+P 1615 10090
+F 0 "#PWR?" H 1615 9940 50  0001 C CNN
+F 1 "VCC" H 1630 10263 50  0000 C CNN
+F 2 "" H 1615 10090 50  0001 C CNN
+F 3 "" H 1615 10090 50  0001 C CNN
+	1    1615 10090
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VCC #PWR0108
+U 1 1 617F41EE
+P 1615 10340
+F 0 "#PWR0108" H 1615 10190 50  0001 C CNN
+F 1 "VCC" H 1630 10513 50  0000 C CNN
+F 2 "" H 1615 10340 50  0001 C CNN
+F 3 "" H 1615 10340 50  0001 C CNN
+	1    1615 10340
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 00000000
+P 4215 10690
+F 0 "#PWR?" H 4215 10540 50  0001 C CNN
+F 1 "VCC" H 4230 10863 50  0000 C CNN
+F 2 "" H 4215 10690 50  0001 C CNN
+F 3 "" H 4215 10690 50  0001 C CNN
+	1    4215 10690
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:VCC #PWR0104
+U 1 1 61823F52
+P 8080 9405
+F 0 "#PWR0104" H 8080 9255 50  0001 C CNN
+F 1 "VCC" V 8095 9532 50  0000 L CNN
+F 2 "" H 8080 9405 50  0001 C CNN
+F 3 "" H 8080 9405 50  0001 C CNN
+	1    8080 9405
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VCC #PWR0106
+U 1 1 61808B69
+P 8875 8405
+F 0 "#PWR0106" H 8875 8255 50  0001 C CNN
+F 1 "VCC" V 8890 8532 50  0000 L CNN
+F 2 "" H 8875 8405 50  0001 C CNN
+F 3 "" H 8875 8405 50  0001 C CNN
+	1    8875 8405
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3.3V #PWR0103
+U 1 1 618242A6
+P 10835 9405
+F 0 "#PWR0103" H 10835 9255 50  0001 C CNN
+F 1 "+3.3V" V 10850 9533 50  0000 L CNN
+F 2 "" H 10835 9405 50  0001 C CNN
+F 3 "" H 10835 9405 50  0001 C CNN
+	1    10835 9405
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 00000000
+P 1020 9540
+F 0 "#PWR?" H 1020 9290 50  0001 C CNN
+F 1 "GND" H 1025 9367 50  0000 C CNN
+F 2 "" H 1020 9540 50  0001 C CNN
+F 3 "" H 1020 9540 50  0001 C CNN
+	1    1020 9540
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 00000000
+P 1280 9540
+F 0 "#PWR?" H 1280 9290 50  0001 C CNN
+F 1 "GND" H 1285 9367 50  0000 C CNN
+F 2 "" H 1280 9540 50  0001 C CNN
+F 3 "" H 1280 9540 50  0001 C CNN
+	1    1280 9540
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 00000000
+P 1615 8590
+F 0 "#PWR?" H 1615 8340 50  0001 C CNN
+F 1 "GND" H 1620 8417 50  0000 C CNN
+F 2 "" H 1615 8590 50  0001 C CNN
+F 3 "" H 1615 8590 50  0001 C CNN
+	1    1615 8590
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 6891FD72
+P 1615 9590
+F 0 "#PWR0105" H 1615 9340 50  0001 C CNN
+F 1 "GND" H 1620 9417 50  0000 C CNN
+F 2 "" H 1615 9590 50  0001 C CNN
+F 3 "" H 1615 9590 50  0001 C CNN
+	1    1615 9590
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 00000000
+P 1815 6490
+F 0 "#PWR?" H 1815 6240 50  0001 C CNN
+F 1 "GND" H 1820 6317 50  0000 C CNN
+F 2 "" H 1815 6490 50  0001 C CNN
+F 3 "" H 1815 6490 50  0001 C CNN
+	1    1815 6490
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 00000000
+P 3215 6490
+F 0 "#PWR?" H 3215 6240 50  0001 C CNN
+F 1 "GND" H 3220 6317 50  0000 C CNN
+F 2 "" H 3215 6490 50  0001 C CNN
+F 3 "" H 3215 6490 50  0001 C CNN
+	1    3215 6490
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 00000000
+P 5815 9090
+F 0 "#PWR?" H 5815 8840 50  0001 C CNN
+F 1 "GND" H 5820 8917 50  0000 C CNN
+F 2 "" H 5815 9090 50  0001 C CNN
+F 3 "" H 5815 9090 50  0001 C CNN
+	1    5815 9090
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 689F8E25
+P 8885 8865
+F 0 "#PWR0107" H 8885 8615 50  0001 C CNN
+F 1 "GND" V 8890 8737 50  0000 R CNN
+F 2 "" H 8885 8865 50  0001 C CNN
+F 3 "" H 8885 8865 50  0001 C CNN
+	1    8885 8865
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0110
+U 1 1 69187D6D
+P 10055 9920
+F 0 "#PWR0110" H 10055 9670 50  0001 C CNN
+F 1 "GND" H 10060 9747 50  0000 C CNN
+F 2 "" H 10055 9920 50  0001 C CNN
+F 3 "" H 10055 9920 50  0001 C CNN
+	1    10055 9920
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R19
+U 1 1 00000000
+P 1020 9440
+F 0 "R19" V 950 9435 50  0000 C CNN
+F 1 "100k" V 1020 9440 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1020 9440 50  0001 C CNN
+F 3 "~" H 1020 9440 50  0001 C CNN
+	1    1020 9440
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R20
+U 1 1 00000000
+P 1165 8220
+F 0 "R20" V 1095 8215 50  0000 C CNN
+F 1 "100k" V 1165 8220 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1165 8220 50  0001 C CNN
+F 3 "~" H 1165 8220 50  0001 C CNN
+	1    1165 8220
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R21
+U 1 1 00000000
+P 1165 8720
+F 0 "R21" V 1095 8715 50  0000 C CNN
+F 1 "1.5k" V 1165 8720 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1165 8720 50  0001 C CNN
+F 3 "~" H 1165 8720 50  0001 C CNN
+	1    1165 8720
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R22
+U 1 1 00000000
+P 1165 8970
+F 0 "R22" V 1095 8965 50  0000 C CNN
+F 1 "1.5k" V 1165 8970 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1165 8970 50  0001 C CNN
+F 3 "~" H 1165 8970 50  0001 C CNN
+	1    1165 8970
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R6
+U 1 1 6450E395
+P 6381 6182
+F 0 "R6" V 6311 6177 50  0000 C CNN
+F 1 "51R" V 6381 6182 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 6381 6182 50  0001 C CNN
+F 3 "~" H 6381 6182 50  0001 C CNN
+	1    6381 6182
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R7
+U 1 1 64922AD1
+P 7031 6172
+F 0 "R7" V 6961 6167 50  0000 C CNN
+F 1 "51R" V 7031 6172 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 7031 6172 50  0001 C CNN
+F 3 "~" H 7031 6172 50  0001 C CNN
+	1    7031 6172
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R1
+U 1 1 6564801E
+P 7861 6127
+F 0 "R1" V 7791 6122 50  0000 C CNN
+F 1 "51R" V 7861 6127 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 7861 6127 50  0001 C CNN
+F 3 "~" H 7861 6127 50  0001 C CNN
+	1    7861 6127
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R3
+U 1 1 6564802A
+P 8511 6117
+F 0 "R3" V 8441 6112 50  0000 C CNN
+F 1 "51R" V 8511 6117 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 8511 6117 50  0001 C CNN
+F 3 "~" H 8511 6117 50  0001 C CNN
+	1    8511 6117
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R4
+U 1 1 656F9311
+P 9341 6117
+F 0 "R4" V 9271 6112 50  0000 C CNN
+F 1 "51R" V 9341 6117 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 9341 6117 50  0001 C CNN
+F 3 "~" H 9341 6117 50  0001 C CNN
+	1    9341 6117
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R6
+U 1 1 656F931D
+P 9991 6107
+F 0 "R6" V 9921 6102 50  0000 C CNN
+F 1 "51R" V 9991 6107 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 9991 6107 50  0001 C CNN
+F 3 "~" H 9991 6107 50  0001 C CNN
+	1    9991 6107
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R7
+U 1 1 657AAA87
+P 10911 6087
+F 0 "R7" V 10841 6082 50  0000 C CNN
+F 1 "51R" V 10911 6087 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 10911 6087 50  0001 C CNN
+F 3 "~" H 10911 6087 50  0001 C CNN
+	1    10911 6087
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R9
+U 1 1 657AAA93
+P 11561 6077
+F 0 "R9" V 11491 6072 50  0000 C CNN
+F 1 "51R" V 11561 6077 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 11561 6077 50  0001 C CNN
+F 3 "~" H 11561 6077 50  0001 C CNN
+	1    11561 6077
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R10
+U 1 1 6585BF55
+P 12491 6057
+F 0 "R10" V 12421 6052 50  0000 C CNN
+F 1 "51R" V 12491 6057 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 12491 6057 50  0001 C CNN
+F 3 "~" H 12491 6057 50  0001 C CNN
+	1    12491 6057
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R12
+U 1 1 6585BF61
+P 13141 6047
+F 0 "R12" V 13071 6042 50  0000 C CNN
+F 1 "51R" V 13141 6047 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 13141 6047 50  0001 C CNN
+F 3 "~" H 13141 6047 50  0001 C CNN
+	1    13141 6047
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R13
+U 1 1 6590D7B6
+P 14041 6007
+F 0 "R13" V 13971 6002 50  0000 C CNN
+F 1 "51R" V 14041 6007 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 14041 6007 50  0001 C CNN
+F 3 "~" H 14041 6007 50  0001 C CNN
+	1    14041 6007
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R15
+U 1 1 6590D7C2
+P 14691 5997
+F 0 "R15" V 14621 5992 50  0000 C CNN
+F 1 "51R" V 14691 5997 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 14691 5997 50  0001 C CNN
+F 3 "~" H 14691 5997 50  0001 C CNN
+	1    14691 5997
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R16
+U 1 1 659BFACD
+P 15441 6017
+F 0 "R16" V 15371 6012 50  0000 C CNN
+F 1 "51R" V 15441 6017 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 15441 6017 50  0001 C CNN
+F 3 "~" H 15441 6017 50  0001 C CNN
+	1    15441 6017
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R17
+U 1 1 65A70D41
+P 15596 6012
+F 0 "R17" V 15526 6007 50  0000 C CNN
+F 1 "22R" V 15596 6012 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 15596 6012 50  0001 C CNN
+F 3 "~" H 15596 6012 50  0001 C CNN
+	1    15596 6012
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R18
+U 1 1 65B221D3
+P 15741 6007
+F 0 "R18" V 15671 6002 50  0000 C CNN
+F 1 "22R" V 15741 6007 20  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 15741 6007 50  0001 C CNN
+F 3 "~" H 15741 6007 50  0001 C CNN
+	1    15741 6007
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP1_Small C8
+U 1 1 6180EC8F
+P 8720 9505
+F 0 "C8" H 8800 9505 50  0000 L CNN
+F 1 "4.7uF" V 8615 9415 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 8720 9505 50  0001 C CNN
+F 3 "~" H 8720 9505 50  0001 C CNN
+	1    8720 9505
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP1_Small C9
+U 1 1 61813E58
+P 10270 9505
+F 0 "C9" H 10350 9505 50  0000 L CNN
+F 1 "4.7uF" V 10165 9415 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 10270 9505 50  0001 C CNN
+F 3 "~" H 10270 9505 50  0001 C CNN
+	1    10270 9505
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C11
+U 1 1 00000000
+P 1280 9440
+F 0 "C11" H 1350 9440 50  0000 L CNN
+F 1 "100nF" V 1180 9325 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 1280 9440 50  0001 C CNN
+F 3 "~" H 1280 9440 50  0001 C CNN
+	1    1280 9440
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C7
+U 1 1 6180F43B
+P 8395 9505
+F 0 "C7" H 8465 9505 50  0000 L CNN
+F 1 "100nF" V 8295 9390 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 8395 9505 50  0001 C CNN
+F 3 "~" H 8395 9505 50  0001 C CNN
+	1    8395 9505
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C1
+U 1 1 617FB13A
+P 9100 8630
+F 0 "C1" H 9170 8630 50  0000 L CNN
+F 1 "100nF" V 8995 8555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 9100 8630 50  0001 C CNN
+F 3 "~" H 9100 8630 50  0001 C CNN
+	1    9100 8630
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C2
+U 1 1 617FC4A9
+P 9400 8635
+F 0 "C2" H 9470 8635 50  0000 L CNN
+F 1 "100nF" V 9295 8560 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 9400 8635 50  0001 C CNN
+F 3 "~" H 9400 8635 50  0001 C CNN
+	1    9400 8635
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C3
+U 1 1 617FCC28
+P 9695 8635
+F 0 "C3" H 9765 8635 50  0000 L CNN
+F 1 "100nF" V 9590 8560 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 9695 8635 50  0001 C CNN
+F 3 "~" H 9695 8635 50  0001 C CNN
+	1    9695 8635
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C4
+U 1 1 617FCC32
+P 9995 8640
+F 0 "C4" H 10065 8640 50  0000 L CNN
+F 1 "1uF" V 9890 8565 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 9995 8640 50  0001 C CNN
+F 3 "~" H 9995 8640 50  0001 C CNN
+	1    9995 8640
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C5
+U 1 1 617FDC9A
+P 10290 8635
+F 0 "C5" H 10360 8635 50  0000 L CNN
+F 1 "1uF" V 10185 8560 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 10290 8635 50  0001 C CNN
+F 3 "~" H 10290 8635 50  0001 C CNN
+	1    10290 8635
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C10
+U 1 1 61813E62
+P 10580 9505
+F 0 "C10" H 10650 9505 50  0000 L CNN
+F 1 "100nF" V 10480 9390 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 10580 9505 50  0001 C CNN
+F 3 "~" H 10580 9505 50  0001 C CNN
+	1    10580 9505
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C6
+U 1 1 617FDCA4
+P 10590 8640
+F 0 "C6" H 10660 8640 50  0000 L CNN
+F 1 "1uF" V 10485 8565 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 10590 8640 50  0001 C CNN
+F 3 "~" H 10590 8640 50  0001 C CNN
+	1    10590 8640
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x06_Female J2
+U 1 1 69BC4439
+P 8485 10410
+F 0 "J2" H 8513 10386 50  0000 L CNN
+F 1 "OUT" H 8513 10295 50  0000 L CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical" H 8485 10410 50  0001 C CNN
+F 3 "~" H 8485 10410 50  0001 C CNN
+	1    8485 10410
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x06_Female J1
+U 1 1 6187ABED
+P 9170 10410
+F 0 "J1" H 9198 10386 50  0000 L CNN
+F 1 "IN" H 9198 10295 50  0000 L CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Vertical" H 9170 10410 50  0001 C CNN
+F 3 "~" H 9170 10410 50  0001 C CNN
+	1    9170 10410
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Pack04 RN1
+U 1 1 64875361
+P 6761 6177
+F 0 "RN1" V 6466 6177 50  0000 C CNN
+F 1 "22R" V 6711 6177 20  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 7036 6177 50  0001 C CNN
+F 3 "~" H 6761 6177 50  0001 C CNN
+	1    6761 6177
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Pack04 R2
+U 1 1 65648024
+P 8241 6122
+F 0 "R2" V 7946 6122 50  0000 C CNN
+F 1 "22R" V 8191 6122 20  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 8516 6122 50  0001 C CNN
+F 3 "~" H 8241 6122 50  0001 C CNN
+	1    8241 6122
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Pack04 R5
+U 1 1 656F9317
+P 9721 6112
+F 0 "R5" V 9426 6112 50  0000 C CNN
+F 1 "22R" V 9671 6112 20  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 9996 6112 50  0001 C CNN
+F 3 "~" H 9721 6112 50  0001 C CNN
+	1    9721 6112
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Pack04 R8
+U 1 1 657AAA8D
+P 11291 6082
+F 0 "R8" V 10996 6082 50  0000 C CNN
+F 1 "22R" V 11241 6082 20  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 11566 6082 50  0001 C CNN
+F 3 "~" H 11291 6082 50  0001 C CNN
+	1    11291 6082
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Pack04 R11
+U 1 1 6585BF5B
+P 12871 6052
+F 0 "R11" V 12576 6052 50  0000 C CNN
+F 1 "22R" V 12821 6052 20  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 13146 6052 50  0001 C CNN
+F 3 "~" H 12871 6052 50  0001 C CNN
+	1    12871 6052
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Pack04 R14
+U 1 1 6590D7BC
+P 14421 6002
+F 0 "R14" V 14126 6002 50  0000 C CNN
+F 1 "22R" V 14371 6002 20  0000 C CNN
+F 2 "Resistor_SMD:R_Array_Convex_4x0603" V 14696 6002 50  0001 C CNN
+F 3 "~" H 14421 6002 50  0001 C CNN
+	1    14421 6002
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_ARBG L9
+U 1 1 618E0D58
+P 6231 867
+F 0 "L9" H 6231 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 6231 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 6231 817 50  0001 C CNN
+F 3 "~" H 6231 817 50  0001 C CNN
+	1    6231 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L8
+U 1 1 618DBE4E
+P 6231 1367
+F 0 "L8" H 6231 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 6231 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 6231 1317 50  0001 C CNN
+F 3 "~" H 6231 1317 50  0001 C CNN
+	1    6231 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L7
+U 1 1 618DBE44
+P 6231 1857
+F 0 "L7" H 6231 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 6231 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 6231 1807 50  0001 C CNN
+F 3 "~" H 6231 1807 50  0001 C CNN
+	1    6231 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L6
+U 1 1 618DBE3A
+P 6231 2342
+F 0 "L6" H 6231 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 6231 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 6231 2292 50  0001 C CNN
+F 3 "~" H 6231 2292 50  0001 C CNN
+	1    6231 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L5
+U 1 1 618DBE30
+P 6231 2832
+F 0 "L5" H 6231 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 6231 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 6231 2782 50  0001 C CNN
+F 3 "~" H 6231 2782 50  0001 C CNN
+	1    6231 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L4
+U 1 1 618D6E79
+P 6231 3292
+F 0 "L4" H 6231 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 6231 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 6231 3242 50  0001 C CNN
+F 3 "~" H 6231 3242 50  0001 C CNN
+	1    6231 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L3
+U 1 1 618D6E6F
+P 6231 3782
+F 0 "L3" H 6231 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 6231 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 6231 3732 50  0001 C CNN
+F 3 "~" H 6231 3732 50  0001 C CNN
+	1    6231 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L2
+U 1 1 618CE274
+P 6231 4267
+F 0 "L2" H 6231 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 6231 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 6231 4217 50  0001 C CNN
+F 3 "~" H 6231 4217 50  0001 C CNN
+	1    6231 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L1
+U 1 1 618CB91E
+P 6231 4757
+F 0 "L1" H 6231 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 6231 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 6231 4707 50  0001 C CNN
+F 3 "~" H 6231 4707 50  0001 C CNN
+	1    6231 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L18
+U 1 1 618E4925
+P 7006 867
+F 0 "L18" H 7006 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 7006 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7006 817 50  0001 C CNN
+F 3 "~" H 7006 817 50  0001 C CNN
+	1    7006 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L17
+U 1 1 618E491B
+P 7006 1367
+F 0 "L17" H 7006 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 7006 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7006 1317 50  0001 C CNN
+F 3 "~" H 7006 1317 50  0001 C CNN
+	1    7006 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L16
+U 1 1 618E4911
+P 7006 1857
+F 0 "L16" H 7006 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 7006 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7006 1807 50  0001 C CNN
+F 3 "~" H 7006 1807 50  0001 C CNN
+	1    7006 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L15
+U 1 1 618E4907
+P 7006 2342
+F 0 "L15" H 7006 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 7006 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7006 2292 50  0001 C CNN
+F 3 "~" H 7006 2292 50  0001 C CNN
+	1    7006 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L14
+U 1 1 618E48FD
+P 7006 2832
+F 0 "L14" H 7006 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 7006 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7006 2782 50  0001 C CNN
+F 3 "~" H 7006 2782 50  0001 C CNN
+	1    7006 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L13
+U 1 1 618E48F3
+P 7006 3292
+F 0 "L13" H 7006 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 7006 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7006 3242 50  0001 C CNN
+F 3 "~" H 7006 3242 50  0001 C CNN
+	1    7006 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L12
+U 1 1 618E48E9
+P 7006 3782
+F 0 "L12" H 7006 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 7006 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7006 3732 50  0001 C CNN
+F 3 "~" H 7006 3732 50  0001 C CNN
+	1    7006 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L11
+U 1 1 618E48DF
+P 7006 4267
+F 0 "L11" H 7006 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 7006 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7006 4217 50  0001 C CNN
+F 3 "~" H 7006 4217 50  0001 C CNN
+	1    7006 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L10
+U 1 1 618E48D5
+P 7006 4757
+F 0 "L10" H 7006 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 7006 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7006 4707 50  0001 C CNN
+F 3 "~" H 7006 4707 50  0001 C CNN
+	1    7006 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L27
+U 1 1 618EFC6C
+P 7781 867
+F 0 "L27" H 7781 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 7781 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7781 817 50  0001 C CNN
+F 3 "~" H 7781 817 50  0001 C CNN
+	1    7781 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L26
+U 1 1 618EFC62
+P 7781 1367
+F 0 "L26" H 7781 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 7781 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7781 1317 50  0001 C CNN
+F 3 "~" H 7781 1317 50  0001 C CNN
+	1    7781 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L25
+U 1 1 618EFC58
+P 7781 1857
+F 0 "L25" H 7781 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 7781 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7781 1807 50  0001 C CNN
+F 3 "~" H 7781 1807 50  0001 C CNN
+	1    7781 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L24
+U 1 1 618EFC4E
+P 7781 2342
+F 0 "L24" H 7781 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 7781 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7781 2292 50  0001 C CNN
+F 3 "~" H 7781 2292 50  0001 C CNN
+	1    7781 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L23
+U 1 1 618EFC44
+P 7781 2832
+F 0 "L23" H 7781 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 7781 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7781 2782 50  0001 C CNN
+F 3 "~" H 7781 2782 50  0001 C CNN
+	1    7781 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L22
+U 1 1 618EFC3A
+P 7781 3292
+F 0 "L22" H 7781 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 7781 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7781 3242 50  0001 C CNN
+F 3 "~" H 7781 3242 50  0001 C CNN
+	1    7781 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L21
+U 1 1 618EFC30
+P 7781 3782
+F 0 "L21" H 7781 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 7781 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7781 3732 50  0001 C CNN
+F 3 "~" H 7781 3732 50  0001 C CNN
+	1    7781 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L20
+U 1 1 618EFC26
+P 7781 4267
+F 0 "L20" H 7781 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 7781 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7781 4217 50  0001 C CNN
+F 3 "~" H 7781 4217 50  0001 C CNN
+	1    7781 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L19
+U 1 1 618EFC1C
+P 7781 4757
+F 0 "L19" H 7781 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 7781 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 7781 4707 50  0001 C CNN
+F 3 "~" H 7781 4707 50  0001 C CNN
+	1    7781 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L36
+U 1 1 618EFCC6
+P 8556 867
+F 0 "L36" H 8556 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 8556 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 8556 817 50  0001 C CNN
+F 3 "~" H 8556 817 50  0001 C CNN
+	1    8556 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L35
+U 1 1 618EFCBC
+P 8556 1367
+F 0 "L35" H 8556 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 8556 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 8556 1317 50  0001 C CNN
+F 3 "~" H 8556 1317 50  0001 C CNN
+	1    8556 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L34
+U 1 1 618EFCB2
+P 8556 1857
+F 0 "L34" H 8556 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 8556 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 8556 1807 50  0001 C CNN
+F 3 "~" H 8556 1807 50  0001 C CNN
+	1    8556 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L33
+U 1 1 618EFCA8
+P 8556 2342
+F 0 "L33" H 8556 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 8556 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 8556 2292 50  0001 C CNN
+F 3 "~" H 8556 2292 50  0001 C CNN
+	1    8556 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L32
+U 1 1 618EFC9E
+P 8556 2832
+F 0 "L32" H 8556 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 8556 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 8556 2782 50  0001 C CNN
+F 3 "~" H 8556 2782 50  0001 C CNN
+	1    8556 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L31
+U 1 1 618EFC94
+P 8556 3292
+F 0 "L31" H 8556 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 8556 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 8556 3242 50  0001 C CNN
+F 3 "~" H 8556 3242 50  0001 C CNN
+	1    8556 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L30
+U 1 1 618EFC8A
+P 8556 3782
+F 0 "L30" H 8556 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 8556 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 8556 3732 50  0001 C CNN
+F 3 "~" H 8556 3732 50  0001 C CNN
+	1    8556 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L29
+U 1 1 618EFC80
+P 8556 4267
+F 0 "L29" H 8556 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 8556 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 8556 4217 50  0001 C CNN
+F 3 "~" H 8556 4217 50  0001 C CNN
+	1    8556 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L28
+U 1 1 618EFC76
+P 8556 4757
+F 0 "L28" H 8556 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 8556 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 8556 4707 50  0001 C CNN
+F 3 "~" H 8556 4707 50  0001 C CNN
+	1    8556 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L45
+U 1 1 6190191D
+P 9331 867
+F 0 "L45" H 9331 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 9331 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 9331 817 50  0001 C CNN
+F 3 "~" H 9331 817 50  0001 C CNN
+	1    9331 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L44
+U 1 1 61901913
+P 9331 1367
+F 0 "L44" H 9331 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 9331 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 9331 1317 50  0001 C CNN
+F 3 "~" H 9331 1317 50  0001 C CNN
+	1    9331 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L43
+U 1 1 61901909
+P 9331 1857
+F 0 "L43" H 9331 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 9331 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 9331 1807 50  0001 C CNN
+F 3 "~" H 9331 1807 50  0001 C CNN
+	1    9331 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L42
+U 1 1 619018FF
+P 9331 2342
+F 0 "L42" H 9331 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 9331 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 9331 2292 50  0001 C CNN
+F 3 "~" H 9331 2292 50  0001 C CNN
+	1    9331 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L41
+U 1 1 619018F5
+P 9331 2832
+F 0 "L41" H 9331 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 9331 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 9331 2782 50  0001 C CNN
+F 3 "~" H 9331 2782 50  0001 C CNN
+	1    9331 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L40
+U 1 1 619018EB
+P 9331 3292
+F 0 "L40" H 9331 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 9331 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 9331 3242 50  0001 C CNN
+F 3 "~" H 9331 3242 50  0001 C CNN
+	1    9331 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L39
+U 1 1 619018E1
+P 9331 3782
+F 0 "L39" H 9331 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 9331 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 9331 3732 50  0001 C CNN
+F 3 "~" H 9331 3732 50  0001 C CNN
+	1    9331 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L38
+U 1 1 619018D7
+P 9331 4267
+F 0 "L38" H 9331 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 9331 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 9331 4217 50  0001 C CNN
+F 3 "~" H 9331 4217 50  0001 C CNN
+	1    9331 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L37
+U 1 1 619018CD
+P 9331 4757
+F 0 "L37" H 9331 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 9331 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 9331 4707 50  0001 C CNN
+F 3 "~" H 9331 4707 50  0001 C CNN
+	1    9331 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L54
+U 1 1 61901977
+P 10106 867
+F 0 "L54" H 10106 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 10106 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10106 817 50  0001 C CNN
+F 3 "~" H 10106 817 50  0001 C CNN
+	1    10106 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L53
+U 1 1 6190196D
+P 10106 1367
+F 0 "L53" H 10106 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 10106 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10106 1317 50  0001 C CNN
+F 3 "~" H 10106 1317 50  0001 C CNN
+	1    10106 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L52
+U 1 1 61901963
+P 10106 1857
+F 0 "L52" H 10106 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 10106 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10106 1807 50  0001 C CNN
+F 3 "~" H 10106 1807 50  0001 C CNN
+	1    10106 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L51
+U 1 1 61901959
+P 10106 2342
+F 0 "L51" H 10106 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 10106 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10106 2292 50  0001 C CNN
+F 3 "~" H 10106 2292 50  0001 C CNN
+	1    10106 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L50
+U 1 1 6190194F
+P 10106 2832
+F 0 "L50" H 10106 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 10106 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10106 2782 50  0001 C CNN
+F 3 "~" H 10106 2782 50  0001 C CNN
+	1    10106 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L49
+U 1 1 61901945
+P 10106 3292
+F 0 "L49" H 10106 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 10106 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10106 3242 50  0001 C CNN
+F 3 "~" H 10106 3242 50  0001 C CNN
+	1    10106 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L48
+U 1 1 6190193B
+P 10106 3782
+F 0 "L48" H 10106 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 10106 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10106 3732 50  0001 C CNN
+F 3 "~" H 10106 3732 50  0001 C CNN
+	1    10106 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L47
+U 1 1 61901931
+P 10106 4267
+F 0 "L47" H 10106 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 10106 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10106 4217 50  0001 C CNN
+F 3 "~" H 10106 4217 50  0001 C CNN
+	1    10106 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L46
+U 1 1 61901927
+P 10106 4757
+F 0 "L46" H 10106 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 10106 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10106 4707 50  0001 C CNN
+F 3 "~" H 10106 4707 50  0001 C CNN
+	1    10106 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L63
+U 1 1 619019D1
+P 10881 867
+F 0 "L63" H 10881 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 10881 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10881 817 50  0001 C CNN
+F 3 "~" H 10881 817 50  0001 C CNN
+	1    10881 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L62
+U 1 1 619019C7
+P 10881 1367
+F 0 "L62" H 10881 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 10881 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10881 1317 50  0001 C CNN
+F 3 "~" H 10881 1317 50  0001 C CNN
+	1    10881 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L61
+U 1 1 619019BD
+P 10881 1857
+F 0 "L61" H 10881 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 10881 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10881 1807 50  0001 C CNN
+F 3 "~" H 10881 1807 50  0001 C CNN
+	1    10881 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L60
+U 1 1 619019B3
+P 10881 2342
+F 0 "L60" H 10881 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 10881 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10881 2292 50  0001 C CNN
+F 3 "~" H 10881 2292 50  0001 C CNN
+	1    10881 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L59
+U 1 1 619019A9
+P 10881 2832
+F 0 "L59" H 10881 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 10881 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10881 2782 50  0001 C CNN
+F 3 "~" H 10881 2782 50  0001 C CNN
+	1    10881 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L58
+U 1 1 6190199F
+P 10881 3292
+F 0 "L58" H 10881 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 10881 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10881 3242 50  0001 C CNN
+F 3 "~" H 10881 3242 50  0001 C CNN
+	1    10881 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L57
+U 1 1 61901995
+P 10881 3782
+F 0 "L57" H 10881 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 10881 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10881 3732 50  0001 C CNN
+F 3 "~" H 10881 3732 50  0001 C CNN
+	1    10881 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L56
+U 1 1 6190198B
+P 10881 4267
+F 0 "L56" H 10881 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 10881 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10881 4217 50  0001 C CNN
+F 3 "~" H 10881 4217 50  0001 C CNN
+	1    10881 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L55
+U 1 1 61901981
+P 10881 4757
+F 0 "L55" H 10881 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 10881 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 10881 4707 50  0001 C CNN
+F 3 "~" H 10881 4707 50  0001 C CNN
+	1    10881 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L72
+U 1 1 61901A2B
+P 11656 867
+F 0 "L72" H 11656 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 11656 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 11656 817 50  0001 C CNN
+F 3 "~" H 11656 817 50  0001 C CNN
+	1    11656 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L71
+U 1 1 61901A21
+P 11656 1367
+F 0 "L71" H 11656 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 11656 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 11656 1317 50  0001 C CNN
+F 3 "~" H 11656 1317 50  0001 C CNN
+	1    11656 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L70
+U 1 1 61901A17
+P 11656 1857
+F 0 "L70" H 11656 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 11656 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 11656 1807 50  0001 C CNN
+F 3 "~" H 11656 1807 50  0001 C CNN
+	1    11656 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L69
+U 1 1 61901A0D
+P 11656 2342
+F 0 "L69" H 11656 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 11656 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 11656 2292 50  0001 C CNN
+F 3 "~" H 11656 2292 50  0001 C CNN
+	1    11656 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L68
+U 1 1 61901A03
+P 11656 2832
+F 0 "L68" H 11656 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 11656 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 11656 2782 50  0001 C CNN
+F 3 "~" H 11656 2782 50  0001 C CNN
+	1    11656 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L67
+U 1 1 619019F9
+P 11656 3292
+F 0 "L67" H 11656 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 11656 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 11656 3242 50  0001 C CNN
+F 3 "~" H 11656 3242 50  0001 C CNN
+	1    11656 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L66
+U 1 1 619019EF
+P 11656 3782
+F 0 "L66" H 11656 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 11656 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 11656 3732 50  0001 C CNN
+F 3 "~" H 11656 3732 50  0001 C CNN
+	1    11656 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L65
+U 1 1 619019E5
+P 11656 4267
+F 0 "L65" H 11656 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 11656 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 11656 4217 50  0001 C CNN
+F 3 "~" H 11656 4217 50  0001 C CNN
+	1    11656 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L64
+U 1 1 619019DB
+P 11656 4757
+F 0 "L64" H 11656 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 11656 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 11656 4707 50  0001 C CNN
+F 3 "~" H 11656 4707 50  0001 C CNN
+	1    11656 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L81
+U 1 1 619459D0
+P 12456 867
+F 0 "L81" H 12456 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 12456 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 12456 817 50  0001 C CNN
+F 3 "~" H 12456 817 50  0001 C CNN
+	1    12456 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L80
+U 1 1 619459C6
+P 12456 1367
+F 0 "L80" H 12456 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 12456 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 12456 1317 50  0001 C CNN
+F 3 "~" H 12456 1317 50  0001 C CNN
+	1    12456 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L79
+U 1 1 619459BC
+P 12456 1857
+F 0 "L79" H 12456 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 12456 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 12456 1807 50  0001 C CNN
+F 3 "~" H 12456 1807 50  0001 C CNN
+	1    12456 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L78
+U 1 1 619459B2
+P 12456 2342
+F 0 "L78" H 12456 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 12456 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 12456 2292 50  0001 C CNN
+F 3 "~" H 12456 2292 50  0001 C CNN
+	1    12456 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L77
+U 1 1 619459A8
+P 12456 2832
+F 0 "L77" H 12456 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 12456 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 12456 2782 50  0001 C CNN
+F 3 "~" H 12456 2782 50  0001 C CNN
+	1    12456 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L76
+U 1 1 6194599E
+P 12456 3292
+F 0 "L76" H 12456 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 12456 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 12456 3242 50  0001 C CNN
+F 3 "~" H 12456 3242 50  0001 C CNN
+	1    12456 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L75
+U 1 1 61945994
+P 12456 3782
+F 0 "L75" H 12456 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 12456 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 12456 3732 50  0001 C CNN
+F 3 "~" H 12456 3732 50  0001 C CNN
+	1    12456 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L74
+U 1 1 6194598A
+P 12456 4267
+F 0 "L74" H 12456 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 12456 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 12456 4217 50  0001 C CNN
+F 3 "~" H 12456 4217 50  0001 C CNN
+	1    12456 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L73
+U 1 1 61945980
+P 12456 4757
+F 0 "L73" H 12456 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 12456 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 12456 4707 50  0001 C CNN
+F 3 "~" H 12456 4707 50  0001 C CNN
+	1    12456 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L90
+U 1 1 61945A2A
+P 13231 867
+F 0 "L90" H 13231 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 13231 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 13231 817 50  0001 C CNN
+F 3 "~" H 13231 817 50  0001 C CNN
+	1    13231 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L89
+U 1 1 61945A20
+P 13231 1367
+F 0 "L89" H 13231 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 13231 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 13231 1317 50  0001 C CNN
+F 3 "~" H 13231 1317 50  0001 C CNN
+	1    13231 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L88
+U 1 1 61945A16
+P 13231 1857
+F 0 "L88" H 13231 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 13231 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 13231 1807 50  0001 C CNN
+F 3 "~" H 13231 1807 50  0001 C CNN
+	1    13231 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L87
+U 1 1 61945A0C
+P 13231 2342
+F 0 "L87" H 13231 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 13231 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 13231 2292 50  0001 C CNN
+F 3 "~" H 13231 2292 50  0001 C CNN
+	1    13231 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L86
+U 1 1 61945A02
+P 13231 2832
+F 0 "L86" H 13231 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 13231 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 13231 2782 50  0001 C CNN
+F 3 "~" H 13231 2782 50  0001 C CNN
+	1    13231 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L85
+U 1 1 619459F8
+P 13231 3292
+F 0 "L85" H 13231 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 13231 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 13231 3242 50  0001 C CNN
+F 3 "~" H 13231 3242 50  0001 C CNN
+	1    13231 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L84
+U 1 1 619459EE
+P 13231 3782
+F 0 "L84" H 13231 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 13231 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 13231 3732 50  0001 C CNN
+F 3 "~" H 13231 3732 50  0001 C CNN
+	1    13231 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L83
+U 1 1 619459E4
+P 13231 4267
+F 0 "L83" H 13231 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 13231 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 13231 4217 50  0001 C CNN
+F 3 "~" H 13231 4217 50  0001 C CNN
+	1    13231 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L82
+U 1 1 619459DA
+P 13231 4757
+F 0 "L82" H 13231 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 13231 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 13231 4707 50  0001 C CNN
+F 3 "~" H 13231 4707 50  0001 C CNN
+	1    13231 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L99
+U 1 1 61945A84
+P 14006 867
+F 0 "L99" H 14006 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 14006 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14006 817 50  0001 C CNN
+F 3 "~" H 14006 817 50  0001 C CNN
+	1    14006 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L98
+U 1 1 61945A7A
+P 14006 1367
+F 0 "L98" H 14006 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 14006 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14006 1317 50  0001 C CNN
+F 3 "~" H 14006 1317 50  0001 C CNN
+	1    14006 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L97
+U 1 1 61945A70
+P 14006 1857
+F 0 "L97" H 14006 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 14006 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14006 1807 50  0001 C CNN
+F 3 "~" H 14006 1807 50  0001 C CNN
+	1    14006 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L96
+U 1 1 61945A66
+P 14006 2342
+F 0 "L96" H 14006 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 14006 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14006 2292 50  0001 C CNN
+F 3 "~" H 14006 2292 50  0001 C CNN
+	1    14006 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L95
+U 1 1 61945A5C
+P 14006 2832
+F 0 "L95" H 14006 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 14006 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14006 2782 50  0001 C CNN
+F 3 "~" H 14006 2782 50  0001 C CNN
+	1    14006 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L94
+U 1 1 61945A52
+P 14006 3292
+F 0 "L94" H 14006 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 14006 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14006 3242 50  0001 C CNN
+F 3 "~" H 14006 3242 50  0001 C CNN
+	1    14006 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L93
+U 1 1 61945A48
+P 14006 3782
+F 0 "L93" H 14006 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 14006 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14006 3732 50  0001 C CNN
+F 3 "~" H 14006 3732 50  0001 C CNN
+	1    14006 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L92
+U 1 1 61945A3E
+P 14006 4267
+F 0 "L92" H 14006 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 14006 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14006 4217 50  0001 C CNN
+F 3 "~" H 14006 4217 50  0001 C CNN
+	1    14006 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L91
+U 1 1 61945A34
+P 14006 4757
+F 0 "L91" H 14006 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 14006 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14006 4707 50  0001 C CNN
+F 3 "~" H 14006 4707 50  0001 C CNN
+	1    14006 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L108
+U 1 1 61945ADE
+P 14781 867
+F 0 "L108" H 14781 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 14781 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14781 817 50  0001 C CNN
+F 3 "~" H 14781 817 50  0001 C CNN
+	1    14781 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L107
+U 1 1 61945AD4
+P 14781 1367
+F 0 "L107" H 14781 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 14781 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14781 1317 50  0001 C CNN
+F 3 "~" H 14781 1317 50  0001 C CNN
+	1    14781 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L106
+U 1 1 61945ACA
+P 14781 1857
+F 0 "L106" H 14781 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 14781 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14781 1807 50  0001 C CNN
+F 3 "~" H 14781 1807 50  0001 C CNN
+	1    14781 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L105
+U 1 1 61945AC0
+P 14781 2342
+F 0 "L105" H 14781 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 14781 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14781 2292 50  0001 C CNN
+F 3 "~" H 14781 2292 50  0001 C CNN
+	1    14781 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L104
+U 1 1 61945AB6
+P 14781 2832
+F 0 "L104" H 14781 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 14781 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14781 2782 50  0001 C CNN
+F 3 "~" H 14781 2782 50  0001 C CNN
+	1    14781 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L103
+U 1 1 61945AAC
+P 14781 3292
+F 0 "L103" H 14781 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 14781 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14781 3242 50  0001 C CNN
+F 3 "~" H 14781 3242 50  0001 C CNN
+	1    14781 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L102
+U 1 1 61945AA2
+P 14781 3782
+F 0 "L102" H 14781 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 14781 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14781 3732 50  0001 C CNN
+F 3 "~" H 14781 3732 50  0001 C CNN
+	1    14781 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L101
+U 1 1 61945A98
+P 14781 4267
+F 0 "L101" H 14781 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 14781 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14781 4217 50  0001 C CNN
+F 3 "~" H 14781 4217 50  0001 C CNN
+	1    14781 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L100
+U 1 1 61945A8E
+P 14781 4757
+F 0 "L100" H 14781 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 14781 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 14781 4707 50  0001 C CNN
+F 3 "~" H 14781 4707 50  0001 C CNN
+	1    14781 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L117
+U 1 1 61945B38
+P 15556 867
+F 0 "L117" H 15556 1272 50  0000 C CNN
+F 1 "LED_ARBG" H 15556 1273 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 15556 817 50  0001 C CNN
+F 3 "~" H 15556 817 50  0001 C CNN
+	1    15556 867 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L116
+U 1 1 61945B2E
+P 15556 1367
+F 0 "L116" H 15556 1772 50  0000 C CNN
+F 1 "LED_ARBG" H 15556 1773 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 15556 1317 50  0001 C CNN
+F 3 "~" H 15556 1317 50  0001 C CNN
+	1    15556 1367
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L115
+U 1 1 61945B24
+P 15556 1857
+F 0 "L115" H 15556 2262 50  0000 C CNN
+F 1 "LED_ARBG" H 15556 2263 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 15556 1807 50  0001 C CNN
+F 3 "~" H 15556 1807 50  0001 C CNN
+	1    15556 1857
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L114
+U 1 1 61945B1A
+P 15556 2342
+F 0 "L114" H 15556 2747 50  0000 C CNN
+F 1 "LED_ARBG" H 15556 2748 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 15556 2292 50  0001 C CNN
+F 3 "~" H 15556 2292 50  0001 C CNN
+	1    15556 2342
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L113
+U 1 1 61945B10
+P 15556 2832
+F 0 "L113" H 15556 3237 50  0000 C CNN
+F 1 "LED_ARBG" H 15556 3238 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 15556 2782 50  0001 C CNN
+F 3 "~" H 15556 2782 50  0001 C CNN
+	1    15556 2832
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L112
+U 1 1 61945B06
+P 15556 3292
+F 0 "L112" H 15556 3697 50  0000 C CNN
+F 1 "LED_ARBG" H 15556 3698 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 15556 3242 50  0001 C CNN
+F 3 "~" H 15556 3242 50  0001 C CNN
+	1    15556 3292
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L111
+U 1 1 61945AFC
+P 15556 3782
+F 0 "L111" H 15556 4187 50  0000 C CNN
+F 1 "LED_ARBG" H 15556 4188 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 15556 3732 50  0001 C CNN
+F 3 "~" H 15556 3732 50  0001 C CNN
+	1    15556 3782
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L110
+U 1 1 61945AF2
+P 15556 4267
+F 0 "L110" H 15556 4672 50  0000 C CNN
+F 1 "LED_ARBG" H 15556 4673 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 15556 4217 50  0001 C CNN
+F 3 "~" H 15556 4217 50  0001 C CNN
+	1    15556 4267
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED_ARBG L109
+U 1 1 61945AE8
+P 15556 4757
+F 0 "L109" H 15556 5162 50  0000 C CNN
+F 1 "LED_ARBG" H 15556 5163 50  0001 C CNN
+F 2 "foot-print:DIOSC160X150X35-4N" H 15556 4707 50  0001 C CNN
+F 3 "~" H 15556 4707 50  0001 C CNN
+	1    15556 4757
+	0    -1   -1   0   
+$EndComp
+$Comp
+L AMS1117-3.3:AMS1117-3.3 U1
+U 1 1 6180B1E4
+P 9455 9505
+F 0 "U1" H 9455 9747 50  0000 C CNN
+F 1 "AMS1117-3.3" H 9455 9656 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 9455 9705 50  0001 C CNN
+F 3 "http://www.advanced-monolithic.com/pdf/ds1117.pdf" H 9555 9255 50  0001 C CNN
+	1    9455 9505
+	1    0    0    -1  
+$EndComp
+$Comp
+L IS31FL3741a:IS31FL3741a U1
+U 1 1 00000000
+P 3715 8590
+F 0 "U1" H 3715 8722 100 0000 C CNN
+F 1 "IS31FL3741a" H 3713 8548 100 0000 C CNN
+F 2 "acheron_Hardware:QFN-60-1EP_7x7mm_P0.4mm_EP5.4x5.4mm_ThermalReliefs" H 3740 8615 50  0001 C CNN
+F 3 "" H 3740 8615 50  0001 C CNN
+F 4 "QFN-60" H 3715 8590 50  0001 C CNN "Package"
+F 5 "Lumissil" H 3715 8590 50  0001 C CNN "Manufacturer"
+F 6 "IS31FL3741A" H 3715 8590 50  0001 C CNN "Manufacturer Part Number"
+F 7 "39×9 dots matrix LED driver" H 3715 8590 50  0001 C CNN "Specification"
+F 8 "Mouser 870-IS31FL3741AQFLS4 (https://www.mouser.com/ProductDetail/Lumissil/IS31FL3741A-QFLS4-TR?qs=vHuUswq2%252BswTP7dMFLQAvQ%3D%3D) , Digikey 2521-IS31FL3741A-QFLS4 (https://www.digikey.com/en/products/detail/lumissil-microsystems/IS31FL3741A-QFLS4-TR/12675545)" H 3715 8590 50  0001 C CNN "Vendor Part Number"
+	1    3715 8590
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
